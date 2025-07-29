@@ -1,0 +1,921 @@
+geography,geography_id_name,geography_id,geography_name,geography_key
+county,GEOID,6075.0,"San Francisco County, California",1
+tract,GEOID,6075010101.0,"Census Tract 101.01, San Francisco County, California",2
+tract,GEOID,6075010102.0,"Census Tract 101.02, San Francisco County, California",3
+tract,GEOID,6075010201.0,"Census Tract 102.01, San Francisco County, California",4
+tract,GEOID,6075010202.0,"Census Tract 102.02, San Francisco County, California",5
+tract,GEOID,6075010300.0,"Census Tract 103, San Francisco County, California",6
+tract,GEOID,6075010401.0,"Census Tract 104.01, San Francisco County, California",7
+tract,GEOID,6075010402.0,"Census Tract 104.02, San Francisco County, California",8
+tract,GEOID,6075010500.0,"Census Tract 105, San Francisco County, California",9
+zcta,GEOID,94115.0,94115,10
+tract,GEOID,6075010600.0,"Census Tract 106, San Francisco County, California",11
+tract,GEOID,6075010701.0,"Census Tract 107.01, San Francisco County, California",12
+state,GEOID,6.0,California,13
+tract,GEOID,6075010702.0,"Census Tract 107.02, San Francisco County, California",14
+tract,GEOID,6075010800.0,"Census Tract 108, San Francisco County, California",15
+tract,GEOID,6075010901.0,"Census Tract 109.01, San Francisco County, California",16
+tract,GEOID,6075010902.0,"Census Tract 109.02, San Francisco County, California",17
+tract,GEOID,6075011001.0,"Census Tract 110.01, San Francisco County, California",18
+tract,GEOID,6075011002.0,"Census Tract 110.02, San Francisco County, California",19
+tract,GEOID,6075011101.0,"Census Tract 111.01, San Francisco County, California",20
+tract,GEOID,6075011102.0,"Census Tract 111.02, San Francisco County, California",21
+tract,GEOID,6075011200.0,"Census Tract 112, San Francisco County, California",22
+tract,GEOID,6075011300.0,"Census Tract 113, San Francisco County, California",23
+tract,GEOID,6075011700.0,"Census Tract 117, San Francisco County, California",24
+tract,GEOID,6075011800.0,"Census Tract 118, San Francisco County, California",25
+tract,GEOID,6075011901.0,"Census Tract 119.01, San Francisco County, California",26
+tract,GEOID,6075011902.0,"Census Tract 119.02, San Francisco County, California",27
+tract,GEOID,6075012001.0,"Census Tract 120.01, San Francisco County, California",28
+tract,GEOID,6075012002.0,"Census Tract 120.02, San Francisco County, California",29
+tract,GEOID,6075012100.0,"Census Tract 121, San Francisco County, California",30
+tract,GEOID,6075012202.0,"Census Tract 122.02, San Francisco County, California",31
+tract,GEOID,6075012203.0,"Census Tract 122.03, San Francisco County, California",32
+tract,GEOID,6075012204.0,"Census Tract 122.04, San Francisco County, California",33
+tract,GEOID,6075012301.0,"Census Tract 123.01, San Francisco County, California",34
+tract,GEOID,6075012302.0,"Census Tract 123.02, San Francisco County, California",35
+tract,GEOID,6075012403.0,"Census Tract 124.03, San Francisco County, California",36
+tract,GEOID,6075012404.0,"Census Tract 124.04, San Francisco County, California",37
+tract,GEOID,6075012405.0,"Census Tract 124.05, San Francisco County, California",38
+zcta,GEOID,94116.0,94116,39
+zcta,GEOID,94117.0,94117,40
+tract,GEOID,6075012406.0,"Census Tract 124.06, San Francisco County, California",41
+tract,GEOID,6075012502.0,"Census Tract 125.02, San Francisco County, California",42
+tract,GEOID,6075012503.0,"Census Tract 125.03, San Francisco County, California",43
+tract,GEOID,6075012504.0,"Census Tract 125.04, San Francisco County, California",44
+tract,GEOID,6075012601.0,"Census Tract 126.01, San Francisco County, California",45
+zcta,GEOID,94118.0,94118,46
+tract,GEOID,6075012602.0,"Census Tract 126.02, San Francisco County, California",47
+tract,GEOID,6075012700.0,"Census Tract 127, San Francisco County, California",48
+tract,GEOID,6075012801.0,"Census Tract 128.01, San Francisco County, California",49
+tract,GEOID,6075012802.0,"Census Tract 128.02, San Francisco County, California",50
+tract,GEOID,6075012901.0,"Census Tract 129.01, San Francisco County, California",51
+tract,GEOID,6075012902.0,"Census Tract 129.02, San Francisco County, California",52
+tract,GEOID,6075013001.0,"Census Tract 130.01, San Francisco County, California",53
+tract,GEOID,6075013002.0,"Census Tract 130.02, San Francisco County, California",54
+tract,GEOID,6075013101.0,"Census Tract 131.01, San Francisco County, California",55
+tract,GEOID,6075013102.0,"Census Tract 131.02, San Francisco County, California",56
+tract,GEOID,6075013200.0,"Census Tract 132, San Francisco County, California",57
+zcta,GEOID,94121.0,94121,58
+tract,GEOID,6075013300.0,"Census Tract 133, San Francisco County, California",59
+tract,GEOID,6075013401.0,"Census Tract 134.01, San Francisco County, California",60
+tract,GEOID,6075013402.0,"Census Tract 134.02, San Francisco County, California",61
+tract,GEOID,6075013500.0,"Census Tract 135, San Francisco County, California",62
+tract,GEOID,6075015100.0,"Census Tract 151, San Francisco County, California",63
+tract,GEOID,6075015201.0,"Census Tract 152.01, San Francisco County, California",64
+tract,GEOID,6075015202.0,"Census Tract 152.02, San Francisco County, California",65
+tract,GEOID,6075015300.0,"Census Tract 153, San Francisco County, California",66
+tract,GEOID,6075015401.0,"Census Tract 154.01, San Francisco County, California",67
+tract,GEOID,6075015402.0,"Census Tract 154.02, San Francisco County, California",68
+tract,GEOID,6075015500.0,"Census Tract 155, San Francisco County, California",69
+tract,GEOID,6075015600.0,"Census Tract 156, San Francisco County, California",70
+tract,GEOID,6075015701.0,"Census Tract 157.01, San Francisco County, California",71
+tract,GEOID,6075015702.0,"Census Tract 157.02, San Francisco County, California",72
+tract,GEOID,6075015801.0,"Census Tract 158.01, San Francisco County, California",73
+tract,GEOID,6075015802.0,"Census Tract 158.02, San Francisco County, California",74
+tract,GEOID,6075015900.0,"Census Tract 159, San Francisco County, California",75
+tract,GEOID,6075016000.0,"Census Tract 160, San Francisco County, California",76
+tract,GEOID,6075016101.0,"Census Tract 161.01, San Francisco County, California",77
+tract,GEOID,6075016102.0,"Census Tract 161.02, San Francisco County, California",78
+tract,GEOID,6075016200.0,"Census Tract 162, San Francisco County, California",79
+tract,GEOID,6075016300.0,"Census Tract 163, San Francisco County, California",80
+tract,GEOID,6075016400.0,"Census Tract 164, San Francisco County, California",81
+tract,GEOID,6075016500.0,"Census Tract 165, San Francisco County, California",82
+tract,GEOID,6075016601.0,"Census Tract 166.01, San Francisco County, California",83
+tract,GEOID,6075016602.0,"Census Tract 166.02, San Francisco County, California",84
+tract,GEOID,6075016700.0,"Census Tract 167, San Francisco County, California",85
+tract,GEOID,6075016801.0,"Census Tract 168.01, San Francisco County, California",86
+tract,GEOID,6075016802.0,"Census Tract 168.02, San Francisco County, California",87
+tract,GEOID,6075016900.0,"Census Tract 169, San Francisco County, California",88
+tract,GEOID,6075017000.0,"Census Tract 170, San Francisco County, California",89
+tract,GEOID,6075017101.0,"Census Tract 171.01, San Francisco County, California",90
+tract,GEOID,6075017102.0,"Census Tract 171.02, San Francisco County, California",91
+tract,GEOID,6075017602.0,"Census Tract 176.02, San Francisco County, California",92
+tract,GEOID,6075017603.0,"Census Tract 176.03, San Francisco County, California",93
+zcta,GEOID,94122.0,94122,94
+tract,GEOID,6075017604.0,"Census Tract 176.04, San Francisco County, California",95
+tract,GEOID,6075017700.0,"Census Tract 177, San Francisco County, California",96
+tract,GEOID,6075017801.0,"Census Tract 178.01, San Francisco County, California",97
+tract,GEOID,6075017803.0,"Census Tract 178.03, San Francisco County, California",98
+tract,GEOID,6075017804.0,"Census Tract 178.04, San Francisco County, California",99
+tract,GEOID,6075017903.0,"Census Tract 179.03, San Francisco County, California",100
+tract,GEOID,6075018000.0,"Census Tract 180, San Francisco County, California",101
+tract,GEOID,6075020101.0,"Census Tract 201.01, San Francisco County, California",102
+tract,GEOID,6075020102.0,"Census Tract 201.02, San Francisco County, California",103
+tract,GEOID,6075020201.0,"Census Tract 202.01, San Francisco County, California",104
+tract,GEOID,6075020202.0,"Census Tract 202.02, San Francisco County, California",105
+zcta,GEOID,94123.0,94123,106
+tract,GEOID,6075020300.0,"Census Tract 203, San Francisco County, California",107
+tract,GEOID,6075020401.0,"Census Tract 204.01, San Francisco County, California",108
+tract,GEOID,6075020402.0,"Census Tract 204.02, San Francisco County, California",109
+tract,GEOID,6075020500.0,"Census Tract 205, San Francisco County, California",110
+tract,GEOID,6075020601.0,"Census Tract 206.01, San Francisco County, California",111
+tract,GEOID,6075020602.0,"Census Tract 206.02, San Francisco County, California",112
+tract,GEOID,6075020701.0,"Census Tract 207.01, San Francisco County, California",113
+tract,GEOID,6075020702.0,"Census Tract 207.02, San Francisco County, California",114
+tract,GEOID,6075020801.0,"Census Tract 208.01, San Francisco County, California",115
+tract,GEOID,6075020802.0,"Census Tract 208.02, San Francisco County, California",116
+tract,GEOID,6075020900.0,"Census Tract 209, San Francisco County, California",117
+zcta,GEOID,94124.0,94124,118
+tract,GEOID,6075021000.0,"Census Tract 210, San Francisco County, California",119
+tract,GEOID,6075021100.0,"Census Tract 211, San Francisco County, California",120
+tract,GEOID,6075021200.0,"Census Tract 212, San Francisco County, California",121
+tract,GEOID,6075021300.0,"Census Tract 213, San Francisco County, California",122
+tract,GEOID,6075021400.0,"Census Tract 214, San Francisco County, California",123
+tract,GEOID,6075021500.0,"Census Tract 215, San Francisco County, California",124
+tract,GEOID,6075021600.0,"Census Tract 216, San Francisco County, California",125
+tract,GEOID,6075021700.0,"Census Tract 217, San Francisco County, California",126
+tract,GEOID,6075021800.0,"Census Tract 218, San Francisco County, California",127
+tract,GEOID,6075022600.0,"Census Tract 226, San Francisco County, California",128
+tract,GEOID,6075022702.0,"Census Tract 227.02, San Francisco County, California",129
+tract,GEOID,6075022704.0,"Census Tract 227.04, San Francisco County, California",130
+tract,GEOID,6075022801.0,"Census Tract 228.01, San Francisco County, California",131
+tract,GEOID,6075022802.0,"Census Tract 228.02, San Francisco County, California",132
+tract,GEOID,6075022803.0,"Census Tract 228.03, San Francisco County, California",133
+tract,GEOID,6075022901.0,"Census Tract 229.01, San Francisco County, California",134
+tract,GEOID,6075022902.0,"Census Tract 229.02, San Francisco County, California",135
+tract,GEOID,6075022903.0,"Census Tract 229.03, San Francisco County, California",136
+tract,GEOID,6075023001.0,"Census Tract 230.01, San Francisco County, California",137
+tract,GEOID,6075023003.0,"Census Tract 230.03, San Francisco County, California",138
+tract,GEOID,6075023102.0,"Census Tract 231.02, San Francisco County, California",139
+tract,GEOID,6075023103.0,"Census Tract 231.03, San Francisco County, California",140
+tract,GEOID,6075023200.0,"Census Tract 232, San Francisco County, California",141
+zcta,GEOID,94127.0,94127,142
+tract,GEOID,6075023300.0,"Census Tract 233, San Francisco County, California",143
+tract,GEOID,6075023400.0,"Census Tract 234, San Francisco County, California",144
+tract,GEOID,6075025100.0,"Census Tract 251, San Francisco County, California",145
+tract,GEOID,6075025200.0,"Census Tract 252, San Francisco County, California",146
+tract,GEOID,6075025300.0,"Census Tract 253, San Francisco County, California",147
+tract,GEOID,6075025401.0,"Census Tract 254.01, San Francisco County, California",148
+tract,GEOID,6075025402.0,"Census Tract 254.02, San Francisco County, California",149
+tract,GEOID,6075025403.0,"Census Tract 254.03, San Francisco County, California",150
+tract,GEOID,6075025501.0,"Census Tract 255.01, San Francisco County, California",151
+tract,GEOID,6075025502.0,"Census Tract 255.02, San Francisco County, California",152
+tract,GEOID,6075025600.0,"Census Tract 256, San Francisco County, California",153
+tract,GEOID,6075025701.0,"Census Tract 257.01, San Francisco County, California",154
+tract,GEOID,6075025702.0,"Census Tract 257.02, San Francisco County, California",155
+tract,GEOID,6075025800.0,"Census Tract 258, San Francisco County, California",156
+tract,GEOID,6075025900.0,"Census Tract 259, San Francisco County, California",157
+tract,GEOID,6075026001.0,"Census Tract 260.01, San Francisco County, California",158
+tract,GEOID,6075026002.0,"Census Tract 260.02, San Francisco County, California",159
+tract,GEOID,6075026003.0,"Census Tract 260.03, San Francisco County, California",160
+tract,GEOID,6075026004.0,"Census Tract 260.04, San Francisco County, California",161
+tract,GEOID,6075026100.0,"Census Tract 261, San Francisco County, California",162
+tract,GEOID,6075026201.0,"Census Tract 262.01, San Francisco County, California",163
+tract,GEOID,6075026202.0,"Census Tract 262.02, San Francisco County, California",164
+tract,GEOID,6075026301.0,"Census Tract 263.01, San Francisco County, California",165
+zcta,GEOID,94129.0,94129,166
+tract,GEOID,6075026302.0,"Census Tract 263.02, San Francisco County, California",167
+tract,GEOID,6075026303.0,"Census Tract 263.03, San Francisco County, California",168
+tract,GEOID,6075026401.0,"Census Tract 264.01, San Francisco County, California",169
+tract,GEOID,6075026402.0,"Census Tract 264.02, San Francisco County, California",170
+tract,GEOID,6075026403.0,"Census Tract 264.03, San Francisco County, California",171
+tract,GEOID,6075026404.0,"Census Tract 264.04, San Francisco County, California",172
+tract,GEOID,6075030101.0,"Census Tract 301.01, San Francisco County, California",173
+tract,GEOID,6075030102.0,"Census Tract 301.02, San Francisco County, California",174
+tract,GEOID,6075030201.0,"Census Tract 302.01, San Francisco County, California",175
+tract,GEOID,6075030202.0,"Census Tract 302.02, San Francisco County, California",176
+tract,GEOID,6075030301.0,"Census Tract 303.01, San Francisco County, California",177
+zcta,GEOID,94130.0,94130,178
+tract,GEOID,6075030302.0,"Census Tract 303.02, San Francisco County, California",179
+tract,GEOID,6075030400.0,"Census Tract 304, San Francisco County, California",180
+tract,GEOID,6075030500.0,"Census Tract 305, San Francisco County, California",181
+tract,GEOID,6075030600.0,"Census Tract 306, San Francisco County, California",182
+tract,GEOID,6075030700.0,"Census Tract 307, San Francisco County, California",183
+tract,GEOID,6075030800.0,"Census Tract 308, San Francisco County, California",184
+tract,GEOID,6075030900.0,"Census Tract 309, San Francisco County, California",185
+tract,GEOID,6075031000.0,"Census Tract 310, San Francisco County, California",186
+tract,GEOID,6075031100.0,"Census Tract 311, San Francisco County, California",187
+tract,GEOID,6075031201.0,"Census Tract 312.01, San Francisco County, California",188
+tract,GEOID,6075031202.0,"Census Tract 312.02, San Francisco County, California",189
+tract,GEOID,6075031301.0,"Census Tract 313.01, San Francisco County, California",190
+tract,GEOID,6075031302.0,"Census Tract 313.02, San Francisco County, California",191
+tract,GEOID,6075031401.0,"Census Tract 314.01, San Francisco County, California",192
+tract,GEOID,6075031402.0,"Census Tract 314.02, San Francisco County, California",193
+tract,GEOID,6075032601.0,"Census Tract 326.01, San Francisco County, California",194
+tract,GEOID,6075032602.0,"Census Tract 326.02, San Francisco County, California",195
+tract,GEOID,6075032700.0,"Census Tract 327, San Francisco County, California",196
+tract,GEOID,6075032801.0,"Census Tract 328.01, San Francisco County, California",197
+tract,GEOID,6075032802.0,"Census Tract 328.02, San Francisco County, California",198
+tract,GEOID,6075032901.0,"Census Tract 329.01, San Francisco County, California",199
+tract,GEOID,6075032902.0,"Census Tract 329.02, San Francisco County, California",200
+tract,GEOID,6075033001.0,"Census Tract 330.01, San Francisco County, California",201
+zcta,GEOID,94131.0,94131,202
+tract,GEOID,6075033002.0,"Census Tract 330.02, San Francisco County, California",203
+tract,GEOID,6075033100.0,"Census Tract 331, San Francisco County, California",204
+tract,GEOID,6075033201.0,"Census Tract 332.01, San Francisco County, California",205
+tract,GEOID,6075033203.0,"Census Tract 332.03, San Francisco County, California",206
+tract,GEOID,6075033204.0,"Census Tract 332.04, San Francisco County, California",207
+tract,GEOID,6075035101.0,"Census Tract 351.01, San Francisco County, California",208
+tract,GEOID,6075035102.0,"Census Tract 351.02, San Francisco County, California",209
+tract,GEOID,6075035201.0,"Census Tract 352.01, San Francisco County, California",210
+tract,GEOID,6075035202.0,"Census Tract 352.02, San Francisco County, California",211
+tract,GEOID,6075035300.0,"Census Tract 353, San Francisco County, California",212
+tract,GEOID,6075035400.0,"Census Tract 354, San Francisco County, California",213
+zcta,GEOID,94132.0,94132,214
+tract,GEOID,6075040100.0,"Census Tract 401, San Francisco County, California",215
+tract,GEOID,6075040200.0,"Census Tract 402, San Francisco County, California",216
+tract,GEOID,6075042601.0,"Census Tract 426.01, San Francisco County, California",217
+tract,GEOID,6075042602.0,"Census Tract 426.02, San Francisco County, California",218
+tract,GEOID,6075042700.0,"Census Tract 427, San Francisco County, California",219
+tract,GEOID,6075042800.0,"Census Tract 428, San Francisco County, California",220
+tract,GEOID,6075045100.0,"Census Tract 451, San Francisco County, California",221
+tract,GEOID,6075045201.0,"Census Tract 452.01, San Francisco County, California",222
+tract,GEOID,6075045202.0,"Census Tract 452.02, San Francisco County, California",223
+tract,GEOID,6075047600.0,"Census Tract 476, San Francisco County, California",224
+tract,GEOID,6075047701.0,"Census Tract 477.01, San Francisco County, California",225
+tract,GEOID,6075047702.0,"Census Tract 477.02, San Francisco County, California",226
+tract,GEOID,6075047801.0,"Census Tract 478.01, San Francisco County, California",227
+tract,GEOID,6075047802.0,"Census Tract 478.02, San Francisco County, California",228
+tract,GEOID,6075047902.0,"Census Tract 479.02, San Francisco County, California",229
+tract,GEOID,6075047903.0,"Census Tract 479.03, San Francisco County, California",230
+tract,GEOID,6075047904.0,"Census Tract 479.04, San Francisco County, California",231
+tract,GEOID,6075060100.0,"Census Tract 601, San Francisco County, California",232
+tract,GEOID,6075060400.0,"Census Tract 604, San Francisco County, California",233
+tract,GEOID,6075060502.0,"Census Tract 605.02, San Francisco County, California",234
+tract,GEOID,6075060701.0,"Census Tract 607.01, San Francisco County, California",235
+tract,GEOID,6075060702.0,"Census Tract 607.02, San Francisco County, California",236
+tract,GEOID,6075060703.0,"Census Tract 607.03, San Francisco County, California",237
+zcta,GEOID,94133.0,94133,238
+tract,GEOID,6075061000.0,"Census Tract 610, San Francisco County, California",239
+tract,GEOID,6075061101.0,"Census Tract 611.01, San Francisco County, California",240
+tract,GEOID,6075061102.0,"Census Tract 611.02, San Francisco County, California",241
+tract,GEOID,6075061200.0,"Census Tract 612, San Francisco County, California",242
+tract,GEOID,6075061401.0,"Census Tract 614.01, San Francisco County, California",243
+tract,GEOID,6075061402.0,"Census Tract 614.02, San Francisco County, California",244
+tract,GEOID,6075061501.0,"Census Tract 615.01, San Francisco County, California",245
+tract,GEOID,6075061502.0,"Census Tract 615.02, San Francisco County, California",246
+tract,GEOID,6075061503.0,"Census Tract 615.03, San Francisco County, California",247
+tract,GEOID,6075061504.0,"Census Tract 615.04, San Francisco County, California",248
+tract,GEOID,6075061505.0,"Census Tract 615.05, San Francisco County, California",249
+zcta,GEOID,94134.0,94134,250
+tract,GEOID,6075061506.0,"Census Tract 615.06, San Francisco County, California",251
+tract,GEOID,6075061507.0,"Census Tract 615.07, San Francisco County, California",252
+tract,GEOID,6075061508.0,"Census Tract 615.08, San Francisco County, California",253
+tract,GEOID,6075980200.0,"Census Tract 9802, San Francisco County, California",254
+tract,GEOID,6075980300.0,"Census Tract 9803, San Francisco County, California",255
+tract,GEOID,6075980401.0,"Census Tract 9804.01, San Francisco County, California",256
+tract,GEOID,6075980501.0,"Census Tract 9805.01, San Francisco County, California",257
+tract,GEOID,6075980600.0,"Census Tract 9806, San Francisco County, California",258
+tract,GEOID,6075980900.0,"Census Tract 9809, San Francisco County, California",259
+tract,GEOID,6075990100.0,"Census Tract 9901, San Francisco County, California",260
+tract,GEOID,6075990200.0,"Census Tract 9902, San Francisco County, California",261
+neighborhood,,,Haight Ashbury,262
+neighborhood,,,Bayview Hunters Point,263
+neighborhood,,,Bernal Heights,264
+neighborhood,,,Castro/Upper Market,265
+neighborhood,,,Chinatown,266
+neighborhood,,,Excelsior,267
+neighborhood,,,Financial District/South Beach,268
+neighborhood,,,Glen Park,269
+neighborhood,,,Golden Gate Park,270
+neighborhood,,,Hayes Valley,271
+neighborhood,,,Inner Richmond,272
+neighborhood,,,Inner Sunset,273
+neighborhood,,,Japantown,274
+neighborhood,,,Lakeshore,275
+neighborhood,,,Lincoln Park,276
+neighborhood,,,Lone Mountain/USF,277
+neighborhood,,,Marina,278
+neighborhood,,,McLaren Park,279
+neighborhood,,,Mission,280
+neighborhood,,,Mission Bay,281
+neighborhood,,,Nob Hill,282
+neighborhood,,,Noe Valley,283
+neighborhood,,,North Beach,284
+neighborhood,,,Oceanview/Merced/Ingleside,285
+neighborhood,,,Outer Mission,286
+neighborhood,,,Outer Richmond,287
+neighborhood,,,Pacific Heights,288
+neighborhood,,,Portola,289
+neighborhood,,,Potrero Hill,290
+neighborhood,,,Presidio,291
+neighborhood,,,Presidio Heights,292
+neighborhood,,,Russian Hill,293
+neighborhood,,,South of Market,294
+neighborhood,,,Sunset/Parkside,295
+neighborhood,,,Tenderloin,296
+neighborhood,,,The Farallones,297
+neighborhood,,,Treasure Island,298
+neighborhood,,,Twin Peaks,299
+neighborhood,,,Visitacion Valley,300
+neighborhood,,,West of Twin Peaks,301
+neighborhood,,,Western Addition,302
+zcta,GEOID,94158.0,94158,303
+neighborhood,,,Seacliff,304
+us,GEOID,1.0,United States,305
+supervisor districts,,,SUPERVISORIAL DISTRICT 9,306
+zcta,GEOID,94102.0,94102,307
+zcta,GEOID,94103.0,94103,308
+zcta,GEOID,94104.0,94104,309
+zcta,GEOID,94105.0,94105,310
+zcta,GEOID,94107.0,94107,311
+zcta,GEOID,94108.0,94108,312
+zcta,GEOID,94109.0,94109,313
+zcta,GEOID,94110.0,94110,314
+zcta,GEOID,94111.0,94111,315
+zcta,GEOID,94112.0,94112,316
+zcta,GEOID,94114.0,94114,317
+tract,GEOID,6075012202.0,Census Tract 122.02; San Francisco County; California,318
+tract,GEOID,6075010101.0,Census Tract 101.01,319
+tract,GEOID,6075010102.0,Census Tract 101.02,320
+tract,GEOID,6075010201.0,Census Tract 102.01,321
+tract,GEOID,6075010202.0,Census Tract 102.02,322
+tract,GEOID,6075010401.0,Census Tract 104.01,323
+tract,GEOID,6075010402.0,Census Tract 104.02,324
+tract,GEOID,6075010701.0,Census Tract 107.01,325
+tract,GEOID,6075010702.0,Census Tract 107.02,326
+tract,GEOID,6075010901.0,Census Tract 109.01,327
+tract,GEOID,6075010902.0,Census Tract 109.02,328
+tract,GEOID,6075011001.0,Census Tract 110.01,329
+tract,GEOID,6075011002.0,Census Tract 110.02,330
+tract,GEOID,6075011101.0,Census Tract 111.01,331
+tract,GEOID,6075011102.0,Census Tract 111.02,332
+tract,GEOID,6075012001.0,Census Tract 120.01,333
+tract,GEOID,6075012002.0,Census Tract 120.02,334
+tract,GEOID,6075012203.0,Census Tract 122.03,335
+tract,GEOID,6075012204.0,Census Tract 122.04,336
+tract,GEOID,6075012403.0,Census Tract 124.03,337
+tract,GEOID,6075012404.0,Census Tract 124.04,338
+tract,GEOID,6075012405.0,Census Tract 124.05,339
+tract,GEOID,6075012406.0,Census Tract 124.06,340
+tract,GEOID,6075012503.0,Census Tract 125.03,341
+tract,GEOID,6075012504.0,Census Tract 125.04,342
+tract,GEOID,6075012801.0,Census Tract 128.01,343
+tract,GEOID,6075012802.0,Census Tract 128.02,344
+tract,GEOID,6075013001.0,Census Tract 130.01,345
+tract,GEOID,6075013002.0,Census Tract 130.02,346
+tract,GEOID,6075013401.0,Census Tract 134.01,347
+tract,GEOID,6075013402.0,Census Tract 134.02,348
+tract,GEOID,6075015201.0,Census Tract 152.01,349
+tract,GEOID,6075015202.0,Census Tract 152.02,350
+tract,GEOID,6075015401.0,Census Tract 154.01,351
+tract,GEOID,6075015402.0,Census Tract 154.02,352
+tract,GEOID,6075015701.0,Census Tract 157.01,353
+tract,GEOID,6075015702.0,Census Tract 157.02,354
+tract,GEOID,6075016101.0,Census Tract 161.01,355
+tract,GEOID,6075016102.0,Census Tract 161.02,356
+tract,GEOID,6075016601.0,Census Tract 166.01,357
+tract,GEOID,6075016602.0,Census Tract 166.02,358
+tract,GEOID,6075017602.0,Census Tract 176.02,359
+tract,GEOID,6075017603.0,Census Tract 176.03,360
+tract,GEOID,6075017604.0,Census Tract 176.04,361
+tract,GEOID,6075017803.0,Census Tract 178.03,362
+tract,GEOID,6075017804.0,Census Tract 178.04,363
+tract,GEOID,6075017903.0,Census Tract 179.03,364
+tract,GEOID,6075020101.0,Census Tract 201.01,365
+tract,GEOID,6075020102.0,Census Tract 201.02,366
+tract,GEOID,6075020201.0,Census Tract 202.01,367
+tract,GEOID,6075020202.0,Census Tract 202.02,368
+tract,GEOID,6075020601.0,Census Tract 206.01,369
+tract,GEOID,6075020602.0,Census Tract 206.02,370
+tract,GEOID,6075020701.0,Census Tract 207.01,371
+tract,GEOID,6075020702.0,Census Tract 207.02,372
+tract,GEOID,6075020801.0,Census Tract 208.01,373
+tract,GEOID,6075020802.0,Census Tract 208.02,374
+tract,GEOID,6075025501.0,Census Tract 255.01,375
+tract,GEOID,6075025502.0,Census Tract 255.02,376
+tract,GEOID,6075026201.0,Census Tract 262.01,377
+tract,GEOID,6075026202.0,Census Tract 262.02,378
+tract,GEOID,6075031401.0,Census Tract 314.01,379
+tract,GEOID,6075031402.0,Census Tract 314.02,380
+tract,GEOID,6075033001.0,Census Tract 330.01,381
+tract,GEOID,6075033002.0,Census Tract 330.02,382
+tract,GEOID,6075035101.0,Census Tract 351.01,383
+tract,GEOID,6075035102.0,Census Tract 351.02,384
+tract,GEOID,6075045201.0,Census Tract 452.01,385
+tract,GEOID,6075045202.0,Census Tract 452.02,386
+tract,GEOID,6075047903.0,Census Tract 479.03,387
+tract,GEOID,6075047904.0,Census Tract 479.04,388
+tract,GEOID,6075060701.0,Census Tract 607.01,389
+tract,GEOID,6075060702.0,Census Tract 607.02,390
+tract,GEOID,6075060703.0,Census Tract 607.03,391
+tract,GEOID,6075061101.0,Census Tract 611.01,392
+tract,GEOID,6075061102.0,Census Tract 611.02,393
+tract,GEOID,6075061401.0,Census Tract 614.01,394
+tract,GEOID,6075061402.0,Census Tract 614.02,395
+tract,GEOID,6075061501.0,Census Tract 615.01,396
+tract,GEOID,6075061502.0,Census Tract 615.02,397
+tract,GEOID,6075061503.0,Census Tract 615.03,398
+tract,GEOID,6075061504.0,Census Tract 615.04,399
+tract,GEOID,6075061505.0,Census Tract 615.05,400
+tract,GEOID,6075061506.0,Census Tract 615.06,401
+tract,GEOID,6075061507.0,Census Tract 615.07,402
+tract,GEOID,6075061508.0,Census Tract 615.08,403
+tract,GEOID,6075980300.0,Census Tract 9803,404
+tract,GEOID,6075980401.0,Census Tract 9804.01,405
+tract,GEOID,6075980900.0,Census Tract 9809,406
+tract,GEOID,6075990100.0,Census Tract 9901,407
+tract,GEOID,6075990200.0,Census Tract 9902,408
+supervisor districts,,,SUPERVISORIAL DISTRICT 1,409
+supervisor districts,,,SUPERVISORIAL DISTRICT 10,410
+supervisor districts,,,SUPERVISORIAL DISTRICT 11,411
+supervisor districts,,,SUPERVISORIAL DISTRICT 2,412
+supervisor districts,,,SUPERVISORIAL DISTRICT 3,413
+supervisor districts,,,SUPERVISORIAL DISTRICT 4,414
+supervisor districts,,,SUPERVISORIAL DISTRICT 5,415
+supervisor districts,,,SUPERVISORIAL DISTRICT 6,416
+supervisor districts,,,SUPERVISORIAL DISTRICT 7,417
+supervisor districts,,,SUPERVISORIAL DISTRICT 8,418
+zcta,GEOID,102.0,94102,419
+zcta,GEOID,103.0,94103,420
+zcta,GEOID,104.0,94104,421
+zcta,GEOID,105.0,94105,422
+zcta,GEOID,107.0,94107,423
+zcta,GEOID,108.0,94108,424
+zcta,GEOID,109.0,94109,425
+zcta,GEOID,110.0,94110,426
+zcta,GEOID,111.0,94111,427
+zcta,GEOID,112.0,94112,428
+zcta,GEOID,114.0,94114,429
+zcta,GEOID,115.0,94115,430
+zcta,GEOID,116.0,94116,431
+zcta,GEOID,117.0,94117,432
+zcta,GEOID,118.0,94118,433
+zcta,GEOID,121.0,94121,434
+zcta,GEOID,122.0,94122,435
+zcta,GEOID,123.0,94123,436
+zcta,GEOID,124.0,94124,437
+zcta,GEOID,127.0,94127,438
+zcta,GEOID,129.0,94129,439
+zcta,GEOID,130.0,94130,440
+zcta,GEOID,131.0,94131,441
+zcta,GEOID,132.0,94132,442
+zcta,GEOID,133.0,94133,443
+zcta,GEOID,134.0,94134,444
+zcta,GEOID,158.0,94158,445
+tract,GEOID,6075010300.0,Census Tract 103,446
+tract,GEOID,6075010500.0,Census Tract 105,447
+tract,GEOID,6075010600.0,Census Tract 106,448
+tract,GEOID,6075010800.0,Census Tract 108,449
+tract,GEOID,6075011200.0,Census Tract 112,450
+tract,GEOID,6075011300.0,Census Tract 113,451
+tract,GEOID,6075011700.0,Census Tract 117,452
+tract,GEOID,6075011800.0,Census Tract 118,453
+tract,GEOID,6075011901.0,Census Tract 119.01,454
+tract,GEOID,6075011902.0,Census Tract 119.02,455
+tract,GEOID,6075012100.0,Census Tract 121,456
+tract,GEOID,6075012202.0,Census Tract 122.02,457
+tract,GEOID,6075012301.0,Census Tract 123.01,458
+tract,GEOID,6075012302.0,Census Tract 123.02,459
+tract,GEOID,6075012502.0,Census Tract 125.02,460
+tract,GEOID,6075012601.0,Census Tract 126.01,461
+tract,GEOID,6075012602.0,Census Tract 126.02,462
+tract,GEOID,6075012700.0,Census Tract 127,463
+tract,GEOID,6075012901.0,Census Tract 129.01,464
+tract,GEOID,6075012902.0,Census Tract 129.02,465
+tract,GEOID,6075013101.0,Census Tract 131.01,466
+tract,GEOID,6075013102.0,Census Tract 131.02,467
+tract,GEOID,6075013200.0,Census Tract 132,468
+tract,GEOID,6075013300.0,Census Tract 133,469
+tract,GEOID,6075013500.0,Census Tract 135,470
+tract,GEOID,6075015100.0,Census Tract 151,471
+tract,GEOID,6075015300.0,Census Tract 153,472
+tract,GEOID,6075015500.0,Census Tract 155,473
+tract,GEOID,6075015600.0,Census Tract 156,474
+tract,GEOID,6075015801.0,Census Tract 158.01,475
+tract,GEOID,6075015802.0,Census Tract 158.02,476
+tract,GEOID,6075015900.0,Census Tract 159,477
+tract,GEOID,6075016000.0,Census Tract 160,478
+tract,GEOID,6075016200.0,Census Tract 162,479
+tract,GEOID,6075016300.0,Census Tract 163,480
+tract,GEOID,6075016400.0,Census Tract 164,481
+tract,GEOID,6075016500.0,Census Tract 165,482
+tract,GEOID,6075016700.0,Census Tract 167,483
+tract,GEOID,6075016801.0,Census Tract 168.01,484
+tract,GEOID,6075016802.0,Census Tract 168.02,485
+tract,GEOID,6075016900.0,Census Tract 169,486
+tract,GEOID,6075017000.0,Census Tract 170,487
+tract,GEOID,6075017101.0,Census Tract 171.01,488
+tract,GEOID,6075017102.0,Census Tract 171.02,489
+tract,GEOID,6075017700.0,Census Tract 177,490
+tract,GEOID,6075017801.0,Census Tract 178.01,491
+tract,GEOID,6075018000.0,Census Tract 180,492
+tract,GEOID,6075020300.0,Census Tract 203,493
+tract,GEOID,6075020401.0,Census Tract 204.01,494
+tract,GEOID,6075020402.0,Census Tract 204.02,495
+tract,GEOID,6075020500.0,Census Tract 205,496
+tract,GEOID,6075020900.0,Census Tract 209,497
+tract,GEOID,6075021000.0,Census Tract 210,498
+tract,GEOID,6075021100.0,Census Tract 211,499
+tract,GEOID,6075021200.0,Census Tract 212,500
+tract,GEOID,6075021300.0,Census Tract 213,501
+tract,GEOID,6075021400.0,Census Tract 214,502
+tract,GEOID,6075021500.0,Census Tract 215,503
+tract,GEOID,6075021600.0,Census Tract 216,504
+tract,GEOID,6075021700.0,Census Tract 217,505
+tract,GEOID,6075021800.0,Census Tract 218,506
+tract,GEOID,6075022600.0,Census Tract 226,507
+tract,GEOID,6075022702.0,Census Tract 227.02,508
+tract,GEOID,6075022704.0,Census Tract 227.04,509
+tract,GEOID,6075022801.0,Census Tract 228.01,510
+tract,GEOID,6075022802.0,Census Tract 228.02,511
+tract,GEOID,6075022803.0,Census Tract 228.03,512
+tract,GEOID,6075022901.0,Census Tract 229.01,513
+tract,GEOID,6075022902.0,Census Tract 229.02,514
+tract,GEOID,6075022903.0,Census Tract 229.03,515
+tract,GEOID,6075023001.0,Census Tract 230.01,516
+tract,GEOID,6075023003.0,Census Tract 230.03,517
+tract,GEOID,6075023102.0,Census Tract 231.02,518
+tract,GEOID,6075023103.0,Census Tract 231.03,519
+tract,GEOID,6075023200.0,Census Tract 232,520
+tract,GEOID,6075023300.0,Census Tract 233,521
+tract,GEOID,6075023400.0,Census Tract 234,522
+tract,GEOID,6075025100.0,Census Tract 251,523
+tract,GEOID,6075025200.0,Census Tract 252,524
+tract,GEOID,6075025300.0,Census Tract 253,525
+tract,GEOID,6075025401.0,Census Tract 254.01,526
+tract,GEOID,6075025402.0,Census Tract 254.02,527
+tract,GEOID,6075025403.0,Census Tract 254.03,528
+tract,GEOID,6075025600.0,Census Tract 256,529
+tract,GEOID,6075025701.0,Census Tract 257.01,530
+tract,GEOID,6075025702.0,Census Tract 257.02,531
+tract,GEOID,6075025800.0,Census Tract 258,532
+tract,GEOID,6075025900.0,Census Tract 259,533
+tract,GEOID,6075026001.0,Census Tract 260.01,534
+tract,GEOID,6075026002.0,Census Tract 260.02,535
+tract,GEOID,6075026003.0,Census Tract 260.03,536
+tract,GEOID,6075026004.0,Census Tract 260.04,537
+tract,GEOID,6075026100.0,Census Tract 261,538
+tract,GEOID,6075026301.0,Census Tract 263.01,539
+tract,GEOID,6075026302.0,Census Tract 263.02,540
+tract,GEOID,6075026303.0,Census Tract 263.03,541
+tract,GEOID,6075026401.0,Census Tract 264.01,542
+tract,GEOID,6075026402.0,Census Tract 264.02,543
+tract,GEOID,6075026403.0,Census Tract 264.03,544
+tract,GEOID,6075026404.0,Census Tract 264.04,545
+tract,GEOID,6075030101.0,Census Tract 301.01,546
+tract,GEOID,6075030102.0,Census Tract 301.02,547
+tract,GEOID,6075030201.0,Census Tract 302.01,548
+tract,GEOID,6075030202.0,Census Tract 302.02,549
+tract,GEOID,6075030301.0,Census Tract 303.01,550
+tract,GEOID,6075030302.0,Census Tract 303.02,551
+tract,GEOID,6075030400.0,Census Tract 304,552
+tract,GEOID,6075030500.0,Census Tract 305,553
+tract,GEOID,6075030600.0,Census Tract 306,554
+tract,GEOID,6075030700.0,Census Tract 307,555
+tract,GEOID,6075030800.0,Census Tract 308,556
+tract,GEOID,6075030900.0,Census Tract 309,557
+tract,GEOID,6075031000.0,Census Tract 310,558
+tract,GEOID,6075031100.0,Census Tract 311,559
+tract,GEOID,6075031201.0,Census Tract 312.01,560
+tract,GEOID,6075031202.0,Census Tract 312.02,561
+tract,GEOID,6075031301.0,Census Tract 313.01,562
+tract,GEOID,6075031302.0,Census Tract 313.02,563
+tract,GEOID,6075032601.0,Census Tract 326.01,564
+tract,GEOID,6075032602.0,Census Tract 326.02,565
+tract,GEOID,6075032700.0,Census Tract 327,566
+tract,GEOID,6075032801.0,Census Tract 328.01,567
+tract,GEOID,6075032802.0,Census Tract 328.02,568
+tract,GEOID,6075032901.0,Census Tract 329.01,569
+tract,GEOID,6075032902.0,Census Tract 329.02,570
+tract,GEOID,6075033100.0,Census Tract 331,571
+tract,GEOID,6075033201.0,Census Tract 332.01,572
+tract,GEOID,6075033203.0,Census Tract 332.03,573
+tract,GEOID,6075033204.0,Census Tract 332.04,574
+tract,GEOID,6075035201.0,Census Tract 352.01,575
+tract,GEOID,6075035202.0,Census Tract 352.02,576
+tract,GEOID,6075035300.0,Census Tract 353,577
+tract,GEOID,6075035400.0,Census Tract 354,578
+tract,GEOID,6075040100.0,Census Tract 401,579
+tract,GEOID,6075040200.0,Census Tract 402,580
+tract,GEOID,6075042601.0,Census Tract 426.01,581
+tract,GEOID,6075042602.0,Census Tract 426.02,582
+tract,GEOID,6075042700.0,Census Tract 427,583
+tract,GEOID,6075042800.0,Census Tract 428,584
+tract,GEOID,6075045100.0,Census Tract 451,585
+tract,GEOID,6075047600.0,Census Tract 476,586
+tract,GEOID,6075047701.0,Census Tract 477.01,587
+tract,GEOID,6075047702.0,Census Tract 477.02,588
+tract,GEOID,6075047801.0,Census Tract 478.01,589
+tract,GEOID,6075047802.0,Census Tract 478.02,590
+tract,GEOID,6075047902.0,Census Tract 479.02,591
+tract,GEOID,6075060100.0,Census Tract 601,592
+tract,GEOID,6075060400.0,Census Tract 604,593
+tract,GEOID,6075060502.0,Census Tract 605.02,594
+tract,GEOID,6075061000.0,Census Tract 610,595
+tract,GEOID,6075061200.0,Census Tract 612,596
+tract,GEOID,6075980200.0,Census Tract 9802,597
+tract,GEOID,6075980501.0,Census Tract 9805.01,598
+tract,GEOID,6075980600.0,Census Tract 9806,599
+tract,GEOID,6075010100.0,"Census Tract 101, San Francisco County, California",600
+tract,GEOID,6075010200.0,"Census Tract 102, San Francisco County, California",601
+tract,GEOID,6075010400.0,"Census Tract 104, San Francisco County, California",602
+tract,GEOID,6075010700.0,"Census Tract 107, San Francisco County, California",603
+tract,GEOID,6075010900.0,"Census Tract 109, San Francisco County, California",604
+tract,GEOID,6075011000.0,"Census Tract 110, San Francisco County, California",605
+tract,GEOID,6075011100.0,"Census Tract 111, San Francisco County, California",606
+tract,GEOID,6075012000.0,"Census Tract 120, San Francisco County, California",607
+tract,GEOID,6075012201.0,"Census Tract 122.01, San Francisco County, California",608
+tract,GEOID,6075012401.0,"Census Tract 124.01, San Francisco County, California",609
+tract,GEOID,6075012402.0,"Census Tract 124.02, San Francisco County, California",610
+tract,GEOID,6075012501.0,"Census Tract 125.01, San Francisco County, California",611
+tract,GEOID,6075012800.0,"Census Tract 128, San Francisco County, California",612
+tract,GEOID,6075013000.0,"Census Tract 130, San Francisco County, California",613
+tract,GEOID,6075013400.0,"Census Tract 134, San Francisco County, California",614
+tract,GEOID,6075015200.0,"Census Tract 152, San Francisco County, California",615
+tract,GEOID,6075015400.0,"Census Tract 154, San Francisco County, California",616
+tract,GEOID,6075015700.0,"Census Tract 157, San Francisco County, California",617
+tract,GEOID,6075016100.0,"Census Tract 161, San Francisco County, California",618
+tract,GEOID,6075016600.0,"Census Tract 166, San Francisco County, California",619
+tract,GEOID,6075017601.0,"Census Tract 176.01, San Francisco County, California",620
+tract,GEOID,6075017802.0,"Census Tract 178.02, San Francisco County, California",621
+tract,GEOID,6075017902.0,"Census Tract 179.02, San Francisco County, California",622
+tract,GEOID,6075020100.0,"Census Tract 201, San Francisco County, California",623
+tract,GEOID,6075020200.0,"Census Tract 202, San Francisco County, California",624
+tract,GEOID,6075020600.0,"Census Tract 206, San Francisco County, California",625
+tract,GEOID,6075020700.0,"Census Tract 207, San Francisco County, California",626
+tract,GEOID,6075020800.0,"Census Tract 208, San Francisco County, California",627
+tract,GEOID,6075025500.0,"Census Tract 255, San Francisco County, California",628
+tract,GEOID,6075026200.0,"Census Tract 262, San Francisco County, California",629
+tract,GEOID,6075031400.0,"Census Tract 314, San Francisco County, California",630
+tract,GEOID,6075033000.0,"Census Tract 330, San Francisco County, California",631
+tract,GEOID,6075035100.0,"Census Tract 351, San Francisco County, California",632
+tract,GEOID,6075045200.0,"Census Tract 452, San Francisco County, California",633
+tract,GEOID,6075047901.0,"Census Tract 479.01, San Francisco County, California",634
+tract,GEOID,6075060700.0,"Census Tract 607, San Francisco County, California",635
+tract,GEOID,6075061100.0,"Census Tract 611, San Francisco County, California",636
+tract,GEOID,6075061400.0,"Census Tract 614, San Francisco County, California",637
+tract,GEOID,6075061500.0,"Census Tract 615, San Francisco County, California",638
+tract,GEOID,6075012203.0,Census Tract 122.03; San Francisco County; California,639
+tract,GEOID,6075012204.0,Census Tract 122.04; San Francisco County; California,640
+tract,GEOID,6075012301.0,Census Tract 123.01; San Francisco County; California,641
+tract,GEOID,6075012302.0,Census Tract 123.02; San Francisco County; California,642
+tract,GEOID,6075012403.0,Census Tract 124.03; San Francisco County; California,643
+tract,GEOID,6075012404.0,Census Tract 124.04; San Francisco County; California,644
+tract,GEOID,6075010101.0,Census Tract 101.01; San Francisco County; California,645
+tract,GEOID,6075010102.0,Census Tract 101.02; San Francisco County; California,646
+tract,GEOID,6075012405.0,Census Tract 124.05; San Francisco County; California,647
+tract,GEOID,6075010201.0,Census Tract 102.01; San Francisco County; California,648
+tract,GEOID,6075010202.0,Census Tract 102.02; San Francisco County; California,649
+tract,GEOID,6075010300.0,Census Tract 103; San Francisco County; California,650
+tract,GEOID,6075010401.0,Census Tract 104.01; San Francisco County; California,651
+tract,GEOID,6075010402.0,Census Tract 104.02; San Francisco County; California,652
+tract,GEOID,6075010500.0,Census Tract 105; San Francisco County; California,653
+tract,GEOID,6075010600.0,Census Tract 106; San Francisco County; California,654
+tract,GEOID,6075010701.0,Census Tract 107.01; San Francisco County; California,655
+tract,GEOID,6075010702.0,Census Tract 107.02; San Francisco County; California,656
+tract,GEOID,6075010800.0,Census Tract 108; San Francisco County; California,657
+tract,GEOID,6075012406.0,Census Tract 124.06; San Francisco County; California,658
+tract,GEOID,6075010901.0,Census Tract 109.01; San Francisco County; California,659
+tract,GEOID,6075012502.0,Census Tract 125.02; San Francisco County; California,660
+tract,GEOID,6075010902.0,Census Tract 109.02; San Francisco County; California,661
+tract,GEOID,6075011001.0,Census Tract 110.01; San Francisco County; California,662
+tract,GEOID,6075011002.0,Census Tract 110.02; San Francisco County; California,663
+tract,GEOID,6075011101.0,Census Tract 111.01; San Francisco County; California,664
+tract,GEOID,6075011102.0,Census Tract 111.02; San Francisco County; California,665
+tract,GEOID,6075012503.0,Census Tract 125.03; San Francisco County; California,666
+tract,GEOID,6075011200.0,Census Tract 112; San Francisco County; California,667
+tract,GEOID,6075012504.0,Census Tract 125.04; San Francisco County; California,668
+tract,GEOID,6075012601.0,Census Tract 126.01; San Francisco County; California,669
+tract,GEOID,6075011300.0,Census Tract 113; San Francisco County; California,670
+tract,GEOID,6075011700.0,Census Tract 117; San Francisco County; California,671
+tract,GEOID,6075011800.0,Census Tract 118; San Francisco County; California,672
+tract,GEOID,6075011901.0,Census Tract 119.01; San Francisco County; California,673
+tract,GEOID,6075011902.0,Census Tract 119.02; San Francisco County; California,674
+tract,GEOID,6075012001.0,Census Tract 120.01; San Francisco County; California,675
+tract,GEOID,6075012002.0,Census Tract 120.02; San Francisco County; California,676
+tract,GEOID,6075012100.0,Census Tract 121; San Francisco County; California,677
+tract,GEOID,6075012602.0,Census Tract 126.02; San Francisco County; California,678
+tract,GEOID,6075012700.0,Census Tract 127; San Francisco County; California,679
+tract,GEOID,6075012801.0,Census Tract 128.01; San Francisco County; California,680
+tract,GEOID,6075012802.0,Census Tract 128.02; San Francisco County; California,681
+tract,GEOID,6075012901.0,Census Tract 129.01; San Francisco County; California,682
+tract,GEOID,6075012902.0,Census Tract 129.02; San Francisco County; California,683
+tract,GEOID,6075013001.0,Census Tract 130.01; San Francisco County; California,684
+tract,GEOID,6075013002.0,Census Tract 130.02; San Francisco County; California,685
+tract,GEOID,6075013101.0,Census Tract 131.01; San Francisco County; California,686
+tract,GEOID,6075013102.0,Census Tract 131.02; San Francisco County; California,687
+tract,GEOID,6075013200.0,Census Tract 132; San Francisco County; California,688
+tract,GEOID,6075013300.0,Census Tract 133; San Francisco County; California,689
+tract,GEOID,6075013401.0,Census Tract 134.01; San Francisco County; California,690
+tract,GEOID,6075013402.0,Census Tract 134.02; San Francisco County; California,691
+tract,GEOID,6075013500.0,Census Tract 135; San Francisco County; California,692
+tract,GEOID,6075015100.0,Census Tract 151; San Francisco County; California,693
+tract,GEOID,6075015201.0,Census Tract 152.01; San Francisco County; California,694
+tract,GEOID,6075015202.0,Census Tract 152.02; San Francisco County; California,695
+tract,GEOID,6075015300.0,Census Tract 153; San Francisco County; California,696
+tract,GEOID,6075015401.0,Census Tract 154.01; San Francisco County; California,697
+tract,GEOID,6075015402.0,Census Tract 154.02; San Francisco County; California,698
+tract,GEOID,6075015500.0,Census Tract 155; San Francisco County; California,699
+tract,GEOID,6075015600.0,Census Tract 156; San Francisco County; California,700
+tract,GEOID,6075015701.0,Census Tract 157.01; San Francisco County; California,701
+tract,GEOID,6075015702.0,Census Tract 157.02; San Francisco County; California,702
+tract,GEOID,6075015801.0,Census Tract 158.01; San Francisco County; California,703
+tract,GEOID,6075015802.0,Census Tract 158.02; San Francisco County; California,704
+tract,GEOID,6075015900.0,Census Tract 159; San Francisco County; California,705
+tract,GEOID,6075016000.0,Census Tract 160; San Francisco County; California,706
+tract,GEOID,6075016101.0,Census Tract 161.01; San Francisco County; California,707
+tract,GEOID,6075016102.0,Census Tract 161.02; San Francisco County; California,708
+tract,GEOID,6075016200.0,Census Tract 162; San Francisco County; California,709
+tract,GEOID,6075016300.0,Census Tract 163; San Francisco County; California,710
+tract,GEOID,6075016400.0,Census Tract 164; San Francisco County; California,711
+tract,GEOID,6075016500.0,Census Tract 165; San Francisco County; California,712
+tract,GEOID,6075016601.0,Census Tract 166.01; San Francisco County; California,713
+tract,GEOID,6075016602.0,Census Tract 166.02; San Francisco County; California,714
+tract,GEOID,6075016700.0,Census Tract 167; San Francisco County; California,715
+tract,GEOID,6075016801.0,Census Tract 168.01; San Francisco County; California,716
+tract,GEOID,6075016802.0,Census Tract 168.02; San Francisco County; California,717
+tract,GEOID,6075016900.0,Census Tract 169; San Francisco County; California,718
+tract,GEOID,6075017000.0,Census Tract 170; San Francisco County; California,719
+tract,GEOID,6075017101.0,Census Tract 171.01; San Francisco County; California,720
+tract,GEOID,6075017102.0,Census Tract 171.02; San Francisco County; California,721
+tract,GEOID,6075017602.0,Census Tract 176.02; San Francisco County; California,722
+tract,GEOID,6075017603.0,Census Tract 176.03; San Francisco County; California,723
+tract,GEOID,6075017604.0,Census Tract 176.04; San Francisco County; California,724
+tract,GEOID,6075017700.0,Census Tract 177; San Francisco County; California,725
+tract,GEOID,6075017801.0,Census Tract 178.01; San Francisco County; California,726
+tract,GEOID,6075017803.0,Census Tract 178.03; San Francisco County; California,727
+tract,GEOID,6075017804.0,Census Tract 178.04; San Francisco County; California,728
+tract,GEOID,6075017903.0,Census Tract 179.03; San Francisco County; California,729
+tract,GEOID,6075018000.0,Census Tract 180; San Francisco County; California,730
+tract,GEOID,6075020101.0,Census Tract 201.01; San Francisco County; California,731
+tract,GEOID,6075020102.0,Census Tract 201.02; San Francisco County; California,732
+tract,GEOID,6075020201.0,Census Tract 202.01; San Francisco County; California,733
+tract,GEOID,6075020202.0,Census Tract 202.02; San Francisco County; California,734
+tract,GEOID,6075020300.0,Census Tract 203; San Francisco County; California,735
+tract,GEOID,6075020401.0,Census Tract 204.01; San Francisco County; California,736
+tract,GEOID,6075020402.0,Census Tract 204.02; San Francisco County; California,737
+tract,GEOID,6075020500.0,Census Tract 205; San Francisco County; California,738
+tract,GEOID,6075020601.0,Census Tract 206.01; San Francisco County; California,739
+tract,GEOID,6075020602.0,Census Tract 206.02; San Francisco County; California,740
+tract,GEOID,6075020701.0,Census Tract 207.01; San Francisco County; California,741
+tract,GEOID,6075020702.0,Census Tract 207.02; San Francisco County; California,742
+tract,GEOID,6075020801.0,Census Tract 208.01; San Francisco County; California,743
+tract,GEOID,6075020802.0,Census Tract 208.02; San Francisco County; California,744
+tract,GEOID,6075020900.0,Census Tract 209; San Francisco County; California,745
+tract,GEOID,6075021000.0,Census Tract 210; San Francisco County; California,746
+tract,GEOID,6075021100.0,Census Tract 211; San Francisco County; California,747
+tract,GEOID,6075021200.0,Census Tract 212; San Francisco County; California,748
+tract,GEOID,6075021300.0,Census Tract 213; San Francisco County; California,749
+tract,GEOID,6075021400.0,Census Tract 214; San Francisco County; California,750
+tract,GEOID,6075021500.0,Census Tract 215; San Francisco County; California,751
+tract,GEOID,6075021600.0,Census Tract 216; San Francisco County; California,752
+tract,GEOID,6075021700.0,Census Tract 217; San Francisco County; California,753
+tract,GEOID,6075021800.0,Census Tract 218; San Francisco County; California,754
+tract,GEOID,6075022600.0,Census Tract 226; San Francisco County; California,755
+tract,GEOID,6075022702.0,Census Tract 227.02; San Francisco County; California,756
+tract,GEOID,6075022704.0,Census Tract 227.04; San Francisco County; California,757
+tract,GEOID,6075022801.0,Census Tract 228.01; San Francisco County; California,758
+tract,GEOID,6075022802.0,Census Tract 228.02; San Francisco County; California,759
+tract,GEOID,6075022803.0,Census Tract 228.03; San Francisco County; California,760
+tract,GEOID,6075022901.0,Census Tract 229.01; San Francisco County; California,761
+tract,GEOID,6075022902.0,Census Tract 229.02; San Francisco County; California,762
+tract,GEOID,6075022903.0,Census Tract 229.03; San Francisco County; California,763
+tract,GEOID,6075023001.0,Census Tract 230.01; San Francisco County; California,764
+tract,GEOID,6075023003.0,Census Tract 230.03; San Francisco County; California,765
+tract,GEOID,6075023102.0,Census Tract 231.02; San Francisco County; California,766
+tract,GEOID,6075023103.0,Census Tract 231.03; San Francisco County; California,767
+tract,GEOID,6075023200.0,Census Tract 232; San Francisco County; California,768
+tract,GEOID,6075023300.0,Census Tract 233; San Francisco County; California,769
+tract,GEOID,6075023400.0,Census Tract 234; San Francisco County; California,770
+tract,GEOID,6075025100.0,Census Tract 251; San Francisco County; California,771
+tract,GEOID,6075025200.0,Census Tract 252; San Francisco County; California,772
+tract,GEOID,6075025300.0,Census Tract 253; San Francisco County; California,773
+tract,GEOID,6075025401.0,Census Tract 254.01; San Francisco County; California,774
+tract,GEOID,6075025402.0,Census Tract 254.02; San Francisco County; California,775
+tract,GEOID,6075025403.0,Census Tract 254.03; San Francisco County; California,776
+tract,GEOID,6075025501.0,Census Tract 255.01; San Francisco County; California,777
+tract,GEOID,6075025502.0,Census Tract 255.02; San Francisco County; California,778
+tract,GEOID,6075025600.0,Census Tract 256; San Francisco County; California,779
+tract,GEOID,6075025701.0,Census Tract 257.01; San Francisco County; California,780
+tract,GEOID,6075025702.0,Census Tract 257.02; San Francisco County; California,781
+tract,GEOID,6075025800.0,Census Tract 258; San Francisco County; California,782
+tract,GEOID,6075025900.0,Census Tract 259; San Francisco County; California,783
+tract,GEOID,6075026001.0,Census Tract 260.01; San Francisco County; California,784
+tract,GEOID,6075026002.0,Census Tract 260.02; San Francisco County; California,785
+tract,GEOID,6075026003.0,Census Tract 260.03; San Francisco County; California,786
+tract,GEOID,6075026004.0,Census Tract 260.04; San Francisco County; California,787
+tract,GEOID,6075026100.0,Census Tract 261; San Francisco County; California,788
+tract,GEOID,6075026201.0,Census Tract 262.01; San Francisco County; California,789
+tract,GEOID,6075026202.0,Census Tract 262.02; San Francisco County; California,790
+tract,GEOID,6075026301.0,Census Tract 263.01; San Francisco County; California,791
+tract,GEOID,6075026302.0,Census Tract 263.02; San Francisco County; California,792
+tract,GEOID,6075026303.0,Census Tract 263.03; San Francisco County; California,793
+tract,GEOID,6075026401.0,Census Tract 264.01; San Francisco County; California,794
+tract,GEOID,6075026402.0,Census Tract 264.02; San Francisco County; California,795
+tract,GEOID,6075026403.0,Census Tract 264.03; San Francisco County; California,796
+tract,GEOID,6075026404.0,Census Tract 264.04; San Francisco County; California,797
+tract,GEOID,6075030101.0,Census Tract 301.01; San Francisco County; California,798
+tract,GEOID,6075030102.0,Census Tract 301.02; San Francisco County; California,799
+tract,GEOID,6075030201.0,Census Tract 302.01; San Francisco County; California,800
+tract,GEOID,6075030202.0,Census Tract 302.02; San Francisco County; California,801
+tract,GEOID,6075030301.0,Census Tract 303.01; San Francisco County; California,802
+tract,GEOID,6075030302.0,Census Tract 303.02; San Francisco County; California,803
+tract,GEOID,6075030400.0,Census Tract 304; San Francisco County; California,804
+tract,GEOID,6075030500.0,Census Tract 305; San Francisco County; California,805
+tract,GEOID,6075030600.0,Census Tract 306; San Francisco County; California,806
+tract,GEOID,6075030700.0,Census Tract 307; San Francisco County; California,807
+tract,GEOID,6075030800.0,Census Tract 308; San Francisco County; California,808
+tract,GEOID,6075030900.0,Census Tract 309; San Francisco County; California,809
+tract,GEOID,6075031000.0,Census Tract 310; San Francisco County; California,810
+tract,GEOID,6075031100.0,Census Tract 311; San Francisco County; California,811
+tract,GEOID,6075031201.0,Census Tract 312.01; San Francisco County; California,812
+tract,GEOID,6075031202.0,Census Tract 312.02; San Francisco County; California,813
+tract,GEOID,6075031301.0,Census Tract 313.01; San Francisco County; California,814
+tract,GEOID,6075031302.0,Census Tract 313.02; San Francisco County; California,815
+tract,GEOID,6075031401.0,Census Tract 314.01; San Francisco County; California,816
+tract,GEOID,6075031402.0,Census Tract 314.02; San Francisco County; California,817
+tract,GEOID,6075032601.0,Census Tract 326.01; San Francisco County; California,818
+tract,GEOID,6075032602.0,Census Tract 326.02; San Francisco County; California,819
+tract,GEOID,6075032700.0,Census Tract 327; San Francisco County; California,820
+tract,GEOID,6075032801.0,Census Tract 328.01; San Francisco County; California,821
+tract,GEOID,6075032802.0,Census Tract 328.02; San Francisco County; California,822
+tract,GEOID,6075032901.0,Census Tract 329.01; San Francisco County; California,823
+tract,GEOID,6075032902.0,Census Tract 329.02; San Francisco County; California,824
+tract,GEOID,6075033001.0,Census Tract 330.01; San Francisco County; California,825
+tract,GEOID,6075033002.0,Census Tract 330.02; San Francisco County; California,826
+tract,GEOID,6075033100.0,Census Tract 331; San Francisco County; California,827
+tract,GEOID,6075033201.0,Census Tract 332.01; San Francisco County; California,828
+tract,GEOID,6075033203.0,Census Tract 332.03; San Francisco County; California,829
+tract,GEOID,6075033204.0,Census Tract 332.04; San Francisco County; California,830
+tract,GEOID,6075035101.0,Census Tract 351.01; San Francisco County; California,831
+tract,GEOID,6075035102.0,Census Tract 351.02; San Francisco County; California,832
+tract,GEOID,6075035201.0,Census Tract 352.01; San Francisco County; California,833
+tract,GEOID,6075035202.0,Census Tract 352.02; San Francisco County; California,834
+tract,GEOID,6075035300.0,Census Tract 353; San Francisco County; California,835
+tract,GEOID,6075035400.0,Census Tract 354; San Francisco County; California,836
+tract,GEOID,6075040100.0,Census Tract 401; San Francisco County; California,837
+tract,GEOID,6075040200.0,Census Tract 402; San Francisco County; California,838
+tract,GEOID,6075042601.0,Census Tract 426.01; San Francisco County; California,839
+tract,GEOID,6075042602.0,Census Tract 426.02; San Francisco County; California,840
+tract,GEOID,6075042700.0,Census Tract 427; San Francisco County; California,841
+tract,GEOID,6075042800.0,Census Tract 428; San Francisco County; California,842
+tract,GEOID,6075045100.0,Census Tract 451; San Francisco County; California,843
+tract,GEOID,6075045201.0,Census Tract 452.01; San Francisco County; California,844
+tract,GEOID,6075045202.0,Census Tract 452.02; San Francisco County; California,845
+tract,GEOID,6075047600.0,Census Tract 476; San Francisco County; California,846
+tract,GEOID,6075047701.0,Census Tract 477.01; San Francisco County; California,847
+tract,GEOID,6075047702.0,Census Tract 477.02; San Francisco County; California,848
+tract,GEOID,6075047801.0,Census Tract 478.01; San Francisco County; California,849
+tract,GEOID,6075047802.0,Census Tract 478.02; San Francisco County; California,850
+tract,GEOID,6075047902.0,Census Tract 479.02; San Francisco County; California,851
+tract,GEOID,6075047903.0,Census Tract 479.03; San Francisco County; California,852
+tract,GEOID,6075047904.0,Census Tract 479.04; San Francisco County; California,853
+tract,GEOID,6075060100.0,Census Tract 601; San Francisco County; California,854
+tract,GEOID,6075060400.0,Census Tract 604; San Francisco County; California,855
+tract,GEOID,6075060502.0,Census Tract 605.02; San Francisco County; California,856
+tract,GEOID,6075060701.0,Census Tract 607.01; San Francisco County; California,857
+tract,GEOID,6075060702.0,Census Tract 607.02; San Francisco County; California,858
+tract,GEOID,6075060703.0,Census Tract 607.03; San Francisco County; California,859
+tract,GEOID,6075061000.0,Census Tract 610; San Francisco County; California,860
+tract,GEOID,6075061101.0,Census Tract 611.01; San Francisco County; California,861
+tract,GEOID,6075061102.0,Census Tract 611.02; San Francisco County; California,862
+tract,GEOID,6075061200.0,Census Tract 612; San Francisco County; California,863
+tract,GEOID,6075061401.0,Census Tract 614.01; San Francisco County; California,864
+tract,GEOID,6075061402.0,Census Tract 614.02; San Francisco County; California,865
+tract,GEOID,6075061501.0,Census Tract 615.01; San Francisco County; California,866
+tract,GEOID,6075061502.0,Census Tract 615.02; San Francisco County; California,867
+tract,GEOID,6075061503.0,Census Tract 615.03; San Francisco County; California,868
+tract,GEOID,6075061504.0,Census Tract 615.04; San Francisco County; California,869
+tract,GEOID,6075061505.0,Census Tract 615.05; San Francisco County; California,870
+tract,GEOID,6075061506.0,Census Tract 615.06; San Francisco County; California,871
+tract,GEOID,6075061507.0,Census Tract 615.07; San Francisco County; California,872
+tract,GEOID,6075061508.0,Census Tract 615.08; San Francisco County; California,873
+tract,GEOID,6075980200.0,Census Tract 9802; San Francisco County; California,874
+tract,GEOID,6075980300.0,Census Tract 9803; San Francisco County; California,875
+tract,GEOID,6075980401.0,Census Tract 9804.01; San Francisco County; California,876
+tract,GEOID,6075980501.0,Census Tract 9805.01; San Francisco County; California,877
+tract,GEOID,6075980600.0,Census Tract 9806; San Francisco County; California,878
+tract,GEOID,6075980900.0,Census Tract 9809; San Francisco County; California,879
+tract,GEOID,6075990100.0,Census Tract 9901; San Francisco County; California,880
+tract,GEOID,6075990200.0,Census Tract 9902; San Francisco County; California,881
+tract,GEOID,6075010100.0,Census Tract 101,882
+tract,GEOID,6075010200.0,Census Tract 102,883
+tract,GEOID,6075010400.0,Census Tract 104,884
+tract,GEOID,6075010700.0,Census Tract 107,885
+tract,GEOID,6075010900.0,Census Tract 109,886
+tract,GEOID,6075011000.0,Census Tract 110,887
+tract,GEOID,6075011100.0,Census Tract 111,888
+tract,GEOID,6075012000.0,Census Tract 120,889
+tract,GEOID,6075012201.0,Census Tract 122.01,890
+tract,GEOID,6075012401.0,Census Tract 124.01,891
+tract,GEOID,6075012402.0,Census Tract 124.02,892
+tract,GEOID,6075012501.0,Census Tract 125.01,893
+tract,GEOID,6075012800.0,Census Tract 128,894
+tract,GEOID,6075013000.0,Census Tract 130,895
+tract,GEOID,6075013400.0,Census Tract 134,896
+tract,GEOID,6075015200.0,Census Tract 152,897
+tract,GEOID,6075015400.0,Census Tract 154,898
+tract,GEOID,6075015700.0,Census Tract 157,899
+tract,GEOID,6075016100.0,Census Tract 161,900
+tract,GEOID,6075016600.0,Census Tract 166,901
+tract,GEOID,6075017601.0,Census Tract 176.01,902
+tract,GEOID,6075017802.0,Census Tract 178.02,903
+tract,GEOID,6075017902.0,Census Tract 179.02,904
+tract,GEOID,6075020100.0,Census Tract 201,905
+tract,GEOID,6075020200.0,Census Tract 202,906
+tract,GEOID,6075020600.0,Census Tract 206,907
+tract,GEOID,6075020700.0,Census Tract 207,908
+tract,GEOID,6075020800.0,Census Tract 208,909
+tract,GEOID,6075025500.0,Census Tract 255,910
+tract,GEOID,6075026200.0,Census Tract 262,911
+tract,GEOID,6075031400.0,Census Tract 314,912
+tract,GEOID,6075033000.0,Census Tract 330,913
+tract,GEOID,6075035100.0,Census Tract 351,914
+tract,GEOID,6075045200.0,Census Tract 452,915
+tract,GEOID,6075047901.0,Census Tract 479.01,916
+tract,GEOID,6075060700.0,Census Tract 607,917
+tract,GEOID,6075061100.0,Census Tract 611,918
+tract,GEOID,6075061400.0,Census Tract 614,919
+tract,GEOID,6075061500.0,Census Tract 615,920

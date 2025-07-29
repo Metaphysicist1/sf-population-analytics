@@ -1,0 +1,10 @@
+source_name,derived_flag,derived_details,source_key
+PUMS_acs5,True,"from public use micro data, se calculated using replicate weights",1
+acs5,False,from acs table,2
+acs5,True,population count summarized by neighborhood,3
+acs5,True,population count summarized by supervisor districts,4
+acs5,True,derived by adding 60 and 61 years + 55 to 59 years + 62 to 64 years. Moes calculated using vre tables https://www.census.gov/programs-surveys/acs/data/variance-tables.html,5
+acs1,False,from acs table,6
+acs1,True,"derived by getting population counts in labor force (rate in labor force * total population), adding counts to get the needed age bins, and recalculating the rate. Moes cannot be accurately calculated",7
+acs1,True,"derived by getting unemployed population counts (unemployment rate  * population counts in labor force), adding counts to get the needed age bins, and recalculating the rate. Moes cannot be accurately calculated",8
+PUMS_acs1,True,"from public use micro data, se calculated using replicate weights",9

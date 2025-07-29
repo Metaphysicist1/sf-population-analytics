@@ -1,0 +1,66 @@
+pums_variables,acs_table,acs_code,acs_label,acs_concept,variable_key
+AGEP,,,,,1
+,B01001,1.0,Estimate!!Total:,SEX BY AGE,2
+,B03002,12.0,Estimate!!Total:!!Hispanic or Latino:,HISPANIC OR LATINO ORIGIN BY RACE,3
+,B03002,3.0,Estimate!!Total:!!Not Hispanic or Latino:!!White alone,HISPANIC OR LATINO ORIGIN BY RACE,4
+,B03002,4.0,Estimate!!Total:!!Not Hispanic or Latino:!!Black or African American alone,HISPANIC OR LATINO ORIGIN BY RACE,5
+,B03002,5.0,Estimate!!Total:!!Not Hispanic or Latino:!!American Indian and Alaska Native alone,HISPANIC OR LATINO ORIGIN BY RACE,6
+,B03002,6.0,Estimate!!Total:!!Not Hispanic or Latino:!!Asian alone,HISPANIC OR LATINO ORIGIN BY RACE,7
+,B03002,7.0,Estimate!!Total:!!Not Hispanic or Latino:!!Native Hawaiian and Other Pacific Islander alone,HISPANIC OR LATINO ORIGIN BY RACE,8
+,B03002,8.0,Estimate!!Total:!!Not Hispanic or Latino:!!Some other race alone,HISPANIC OR LATINO ORIGIN BY RACE,9
+,B03002,9.0,Estimate!!Total:!!Not Hispanic or Latino:!!Two or more races:,HISPANIC OR LATINO ORIGIN BY RACE,10
+,B06001,2.0,Estimate!!Total:!!Under 5 years,PLACE OF BIRTH BY AGE IN THE UNITED STATES,11
+"RAC1P, HISP, AGEP",,,,,12
+,B06001,10.0,Estimate!!Total:!!62 to 64 years,PLACE OF BIRTH BY AGE IN THE UNITED STATES,13
+,B06001,3.0,Estimate!!Total:!!5 to 17 years,PLACE OF BIRTH BY AGE IN THE UNITED STATES,14
+,B01001,26.0,Estimate!!Total:!!Female:,SEX BY AGE,15
+,B01001,2.0,Estimate!!Total:!!Male:,SEX BY AGE,16
+,B06001,4.0,Estimate!!Total:!!18 to 24 years,PLACE OF BIRTH BY AGE IN THE UNITED STATES,17
+,B06001,5.0,Estimate!!Total:!!25 to 34 years,PLACE OF BIRTH BY AGE IN THE UNITED STATES,18
+,B06001,6.0,Estimate!!Total:!!35 to 44 years,PLACE OF BIRTH BY AGE IN THE UNITED STATES,19
+,B06001,7.0,Estimate!!Total:!!45 to 54 years,PLACE OF BIRTH BY AGE IN THE UNITED STATES,20
+,B06001,8.0,Estimate!!Total:!!55 to 59 years,PLACE OF BIRTH BY AGE IN THE UNITED STATES,21
+,B06001,9.0,Estimate!!Total:!!60 and 61 years,PLACE OF BIRTH BY AGE IN THE UNITED STATES,22
+,B06001,11.0,Estimate!!Total:!!65 to 74 years,PLACE OF BIRTH BY AGE IN THE UNITED STATES,23
+,B06001,12.0,Estimate!!Total:!!75 years and over,PLACE OF BIRTH BY AGE IN THE UNITED STATES,24
+,B01001_06,,,,25
+,S2301,1.0,Estimate!!Labor Force Participation Rate!!Population 16 years and over,EMPLOYMENT STATUS,26
+,S2301,2.0,Estimate!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!16 to 19 years,EMPLOYMENT STATUS,27
+,S2301,3.0,Estimate!!Labor Force Participation Rate!!Population 16 years and over!!AGE!!20 to 24 years,EMPLOYMENT STATUS,28
+,S2301,12.0,Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,EMPLOYMENT STATUS,29
+,S2301,13.0,Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,EMPLOYMENT STATUS,30
+,S2301,14.0,Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,EMPLOYMENT STATUS,31
+,S2301,15.0,Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,EMPLOYMENT STATUS,32
+,S2301,16.0,Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,EMPLOYMENT STATUS,33
+,S2301,17.0,Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,EMPLOYMENT STATUS,34
+,S2301,18.0,Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,EMPLOYMENT STATUS,35
+,S2301,19.0,Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),EMPLOYMENT STATUS,36
+,S2301,20.0,"Estimate!!Labor Force Participation Rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",EMPLOYMENT STATUS,37
+,S2301,22.0,Estimate!!Labor Force Participation Rate!!Population 20 to 64 years!!SEX!!Male,EMPLOYMENT STATUS,38
+,S2301,23.0,Estimate!!Labor Force Participation Rate!!Population 20 to 64 years!!SEX!!Female,EMPLOYMENT STATUS,39
+,S2301,1.0,Estimate!!Unemployment rate!!Population 16 years and over,EMPLOYMENT STATUS,40
+,S2301,2.0,Estimate!!Unemployment rate!!Population 16 years and over!!AGE!!16 to 19 years,EMPLOYMENT STATUS,41
+,S2301,3.0,Estimate!!Unemployment rate!!Population 16 years and over!!AGE!!20 to 24 years,EMPLOYMENT STATUS,42
+,S2301,12.0,Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone,EMPLOYMENT STATUS,43
+,S2301,13.0,Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Black or African American alone,EMPLOYMENT STATUS,44
+,S2301,14.0,Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!American Indian and Alaska Native alone,EMPLOYMENT STATUS,45
+,S2301,15.0,Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Asian alone,EMPLOYMENT STATUS,46
+,S2301,16.0,Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Native Hawaiian and Other Pacific Islander alone,EMPLOYMENT STATUS,47
+,S2301,17.0,Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Some other race alone,EMPLOYMENT STATUS,48
+,S2301,18.0,Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Two or more races,EMPLOYMENT STATUS,49
+,S2301,19.0,Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!Hispanic or Latino origin (of any race),EMPLOYMENT STATUS,50
+,S2301,20.0,"Estimate!!Unemployment rate!!Population 16 years and over!!RACE AND HISPANIC OR LATINO ORIGIN!!White alone, not Hispanic or Latino",EMPLOYMENT STATUS,51
+,S2301,22.0,Estimate!!Unemployment rate!!Population 20 to 64 years!!SEX!!Male,EMPLOYMENT STATUS,52
+,S2301,23.0,Estimate!!Unemployment rate!!Population 20 to 64 years!!SEX!!Female,EMPLOYMENT STATUS,53
+,S2301,,,EMPLOYMENT STATUS,54
+"RAC1P, HISP, AGEP, SEX",,,,,55
+,B03002,12.0,Estimate!!Total:!!Hispanic or Latino:,Hispanic or Latino Origin by Race,56
+,B03002,3.0,Estimate!!Total:!!Not Hispanic or Latino:!!White alone,Hispanic or Latino Origin by Race,57
+,B03002,4.0,Estimate!!Total:!!Not Hispanic or Latino:!!Black or African American alone,Hispanic or Latino Origin by Race,58
+,B03002,5.0,Estimate!!Total:!!Not Hispanic or Latino:!!American Indian and Alaska Native alone,Hispanic or Latino Origin by Race,59
+,B03002,6.0,Estimate!!Total:!!Not Hispanic or Latino:!!Asian alone,Hispanic or Latino Origin by Race,60
+,B03002,7.0,Estimate!!Total:!!Not Hispanic or Latino:!!Native Hawaiian and Other Pacific Islander alone,Hispanic or Latino Origin by Race,61
+,B03002,8.0,Estimate!!Total:!!Not Hispanic or Latino:!!Some other race alone,Hispanic or Latino Origin by Race,62
+,B03002,9.0,Estimate!!Total:!!Not Hispanic or Latino:!!Two or more races:,Hispanic or Latino Origin by Race,63
+,B01001,26.0,Estimate!!Total:!!Female:,Sex by Age,64
+,B01001,2.0,Estimate!!Total:!!Male:,Sex by Age,65

@@ -1,166 +1,164 @@
 overall_segment,reporting_segment,segment_key
-PUMS_acs5 population count data from 2014 to 2019 at the county level  by age (COVID-19 vaccine reporting - age groups),COVID-19 vaccine reporting - age groups,1
-PUMS_acs5 population count data from 2015 to 2020 at the county level  by age (COVID-19 vaccine reporting - age groups),COVID-19 vaccine reporting - age groups,2
-acs5 population count data from 2016 to 2021 at the county level  by all (from census table B01001),from census table B01001,3
-acs5 population count data from 2016 to 2021 at the county level  by race (from census table B03002),from census table B03002,4
-acs5 population count data from 2016 to 2021 at the county level  by age (from census table B06001),from census table B06001,5
-acs5 population count data from 2016 to 2021 at the tract level  by age (from census table B06001),from census table B06001,6
-acs5 population count data from 2017 to 2022 at the zcta level  by all (from census table B01001),from census table B01001,7
-PUMS_acs5 population count data from 2014 to 2019 at the county level  by age / race (COVID-19 vaccine reporting - primary age brackets and race),COVID-19 vaccine reporting - primary age brackets and race,8
-acs5 population count data from 2013 to 2017 at the state level  by all (DPH overdose reporting - CA population),DPH overdose reporting - CA population,9
-acs5 population count data from 2017 to 2022 at the county level  by all (from census table B01001),from census table B01001,10
-acs5 population count data from 2017 to 2022 at the county level  by race (from census table B03002),from census table B03002,11
-acs5 population count data from 2015 to 2020 at the county level  by race (from census table B03002),from census table B03002,12
-acs5 population count data from 2015 to 2020 at the county level  by age (from census table B06001),from census table B06001,13
-acs5 population count data from 2015 to 2020 at the tract level  by age (from census table B06001),from census table B06001,14
-acs5 population count data from 2017 to 2022 at the neighborhood level  by age (from census table B06001),from census table B06001,15
-acs5 population count data from 2014 to 2018 at the state level  by all (DPH overdose reporting - CA population),DPH overdose reporting - CA population,16
-acs5 population count data from 2015 to 2020 at the neighborhood level  by age (from census table B06001),from census table B06001,17
-acs5 population count data from 2017 to 2022 at the county level  by gender (from census table B01001),from census table B01001,18
-acs5 population count data from 2015 to 2019 at the state level  by all (DPH overdose reporting - CA population),DPH overdose reporting - CA population,19
-acs5 population count data from 2016 to 2020 at the state level  by all (DPH overdose reporting - CA population),DPH overdose reporting - CA population,20
-acs5 population count data from 2017 to 2021 at the state level  by all (DPH overdose reporting - CA population),DPH overdose reporting - CA population,21
-acs5 population count data from 2015 to 2020 at the tract level  by all (from census table B01001),from census table B01001,22
-acs5 population count data from 2015 to 2020 at the tract level  by race (from census table B03002),from census table B03002,23
-acs5 population count data from 2014 to 2019 at the zcta level  by all (from census table B01001),from census table B01001,24
-acs5 population count data from 2015 to 2020 at the county level  by gender (from census table B01001),from census table B01001,25
-acs5 population count data from 2018 to 2022 at the state level  by all (DPH overdose reporting - CA population),DPH overdose reporting - CA population,26
-acs5 population count data from 2013 to 2017 at the us level  by all (DPH overdose reporting - US population),DPH overdose reporting - US population,27
-acs5 population count data from 2014 to 2018 at the us level  by all (DPH overdose reporting - US population),DPH overdose reporting - US population,28
-acs5 population count data from 2015 to 2019 at the us level  by all (DPH overdose reporting - US population),DPH overdose reporting - US population,29
-acs5 population count data from 2016 to 2020 at the us level  by all (DPH overdose reporting - US population),DPH overdose reporting - US population,30
-acs5 population count data from 2017 to 2021 at the us level  by all (DPH overdose reporting - US population),DPH overdose reporting - US population,31
-acs5 population count data from 2018 to 2022 at the us level  by all (DPH overdose reporting - US population),DPH overdose reporting - US population,32
-acs5 population count data from 2019 to 2023 at the county level  by all (from census table B01001),from census table B01001,33
-acs5 population count data from 2019 to 2023 at the county level  by race (from census table B03002),from census table B03002,34
-acs5 population count data from 2019 to 2023 at the neighborhood level  by age (from census table B06001),from census table B06001,35
-acs5 population count data from 2014 to 2019 at the supervisor districts level  by all (from census table B01001),from census table B01001,36
-acs5 population count data from 2014 to 2019 at the county level  by gender (from census table B01001),from census table B01001,37
-PUMS_acs5 population count data from 2017 to 2022 at the county level  by age (MPX reporting),MPX reporting,38
-acs5 population count data from 2015 to 2020 at the neighborhood level  by all (from census table B01001),from census table B01001,39
-acs5 population count data from 2015 to 2020 at the neighborhood level  by race (from census table B03002),from census table B03002,40
-acs5 population count data from 2019 to 2023 at the tract level  by age (from census table B06001),from census table B06001,41
-PUMS_acs5 population count data from 2014 to 2019 at the county level  by age (COVID-19 hospitalizations reporting - age brackets),COVID-19 hospitalizations reporting - age brackets,42
-PUMS_acs5 population count data from 2015 to 2020 at the county level  by age (COVID-19 vaccine reporting - primary age brackets),COVID-19 vaccine reporting - primary age brackets,43
-PUMS_acs5 population count data from 2015 to 2020 at the county level  by age (COVID-19 vaccine reporting - alternate age brackets),COVID-19 vaccine reporting - alternate age brackets,44
-PUMS_acs5 population count data from 2015 to 2020 at the county level  by age (COVID-19 cases/testing reporting - age brackets),COVID-19 cases/testing reporting - age brackets,45
-PUMS_acs5 population count data from 2015 to 2020 at the county level  by race (COVID-19 cases/testing reporting - age brackets),COVID-19 cases/testing reporting - age brackets,46
-PUMS_acs5 population count data from 2015 to 2020 at the county level  by age / race (COVID-19 vaccine reporting - primary age brackets and race),COVID-19 vaccine reporting - primary age brackets and race,47
-acs5 population count data from 2015 to 2020 at the neighborhood level  by age (derived from census variance replicate table B01001),derived from census variance replicate table B01001,48
-acs5 population count data from 2015 to 2020 at the tract level  by age (derived from census variance replicate table B01001),derived from census variance replicate table B01001,49
-PUMS_acs5 population count data from 2014 to 2019 at the county level  by age (MPX reporting),MPX reporting,50
-PUMS_acs5 population count data from 2015 to 2020 at the county level  by age / race (COVID-19 vaccine reporting - alternate age brackets and race),COVID-19 vaccine reporting - alternate age brackets and race,51
-PUMS_acs5 population count data from 2014 to 2019 at the county level  by age / race (COVID-19 vaccine reporting - age groups and race),COVID-19 vaccine reporting - age groups and race,52
-PUMS_acs5 population count data from 2015 to 2020 at the county level  by age / race (COVID-19 vaccine reporting - age groups and race),COVID-19 vaccine reporting - age groups and race,53
-acs5 population count data from 2015 to 2020 at the supervisor districts level  by all (from census table B01001),from census table B01001,54
-acs5 population count data from 2015 to 2020 at the zcta level  by all (from census table B01001),from census table B01001,55
-acs5 population count data from 2015 to 2020 at the county level  by age (derived from census variance replicate table B01001),derived from census variance replicate table B01001,56
-PUMS_acs5 population count data from 2015 to 2020 at the county level  by age (COVID-19 hospitalizations reporting - age brackets),COVID-19 hospitalizations reporting - age brackets,57
-PUMS_acs5 population count data from 2015 to 2020 at the county level  by age (MPX reporting),MPX reporting,58
-acs5 population count data from 2014 to 2019 at the county level  by all (from census table B01001),from census table B01001,59
-acs5 population count data from 2014 to 2019 at the county level  by race (from census table B03002),from census table B03002,60
-acs5 population count data from 2014 to 2019 at the county level  by age (from census table B06001),from census table B06001,61
-acs5 population count data from 2014 to 2019 at the tract level  by age (from census table B06001),from census table B06001,62
-acs5 population count data from 2014 to 2019 at the neighborhood level  by age (from census table B06001),from census table B06001,63
-acs5 population count data from 2019 to 2023 at the county level  by age (from census table B06001),from census table B06001,64
-acs5 population count data from 2014 to 2019 at the tract level  by all (from census table B01001),from census table B01001,65
-acs5 population count data from 2014 to 2019 at the tract level  by race (from census table B03002),from census table B03002,66
-acs5 population count data from 2017 to 2022 at the county level  by age (from census table B06001),from census table B06001,67
-acs5 population count data from 2014 to 2019 at the neighborhood level  by all (from census table B01001),from census table B01001,68
-acs5 population count data from 2014 to 2019 at the neighborhood level  by race (from census table B03002),from census table B03002,69
-acs5 population count data from 2014 to 2019 at the neighborhood level  by age (derived from census variance replicate table B01001),derived from census variance replicate table B01001,70
-PUMS_acs5 population count data from 2014 to 2019 at the county level  by age (COVID-19 vaccine reporting - primary age brackets),COVID-19 vaccine reporting - primary age brackets,71
-PUMS_acs5 population count data from 2014 to 2019 at the county level  by age (COVID-19 vaccine reporting - alternate age brackets),COVID-19 vaccine reporting - alternate age brackets,72
-PUMS_acs5 population count data from 2014 to 2019 at the county level  by age (COVID-19 cases/testing reporting - age brackets),COVID-19 cases/testing reporting - age brackets,73
-PUMS_acs5 population count data from 2014 to 2019 at the county level  by race (COVID-19 cases/testing reporting - age brackets),COVID-19 cases/testing reporting - age brackets,74
-acs5 population count data from 2015 to 2020 at the county level  by all (from census table B01001),from census table B01001,75
-acs5 population count data from 2016 to 2021 at the neighborhood level  by age (from census table B06001),from census table B06001,76
-acs5 population count data from 2016 to 2021 at the tract level  by all (from census table B01001),from census table B01001,77
-acs5 population count data from 2016 to 2021 at the tract level  by race (from census table B03002),from census table B03002,78
-acs5 population count data from 2017 to 2022 at the tract level  by age (from census table B06001),from census table B06001,79
-PUMS_acs5 population count data from 2015 to 2020 at the county level  by age (Seasonal vaccine reporting - age groups),Seasonal vaccine reporting - age groups,80
-PUMS_acs5 population count data from 2016 to 2021 at the county level  by age (Seasonal vaccine reporting - age groups),Seasonal vaccine reporting - age groups,81
-acs5 population count data from 2016 to 2021 at the neighborhood level  by all (from census table B01001),from census table B01001,82
-acs5 population count data from 2016 to 2021 at the neighborhood level  by race (from census table B03002),from census table B03002,83
-PUMS_acs5 population count data from 2016 to 2021 at the county level  by age (COVID-19 vaccine reporting - primary age brackets),COVID-19 vaccine reporting - primary age brackets,84
-PUMS_acs5 population count data from 2016 to 2021 at the county level  by age (COVID-19 vaccine reporting - alternate age brackets),COVID-19 vaccine reporting - alternate age brackets,85
-PUMS_acs5 population count data from 2016 to 2021 at the county level  by age (COVID-19 vaccine reporting - age groups),COVID-19 vaccine reporting - age groups,86
-PUMS_acs5 population count data from 2016 to 2021 at the county level  by age (COVID-19 cases/testing reporting - age brackets),COVID-19 cases/testing reporting - age brackets,87
-PUMS_acs5 population count data from 2016 to 2021 at the county level  by race (COVID-19 cases/testing reporting - age brackets),COVID-19 cases/testing reporting - age brackets,88
-PUMS_acs5 population count data from 2016 to 2021 at the county level  by age / race (COVID-19 vaccine reporting - primary age brackets and race),COVID-19 vaccine reporting - primary age brackets and race,89
-PUMS_acs5 population count data from 2016 to 2021 at the county level  by age / race (COVID-19 vaccine reporting - alternate age brackets and race),COVID-19 vaccine reporting - alternate age brackets and race,90
-PUMS_acs5 population count data from 2016 to 2021 at the county level  by age / race (COVID-19 vaccine reporting - age groups and race),COVID-19 vaccine reporting - age groups and race,91
-acs5 population count data from 2016 to 2021 at the supervisor districts level  by all (from census table B01001),from census table B01001,92
-acs5 population count data from 2016 to 2021 at the zcta level  by all (from census table B01001),from census table B01001,93
-acs5 population count data from 2016 to 2021 at the county level  by gender (from census table B01001),from census table B01001,94
-acs5 population count data from 2016 to 2021 at the neighborhood level  by age (derived from census variance replicate table B01001),derived from census variance replicate table B01001,95
-acs5 population count data from 2016 to 2021 at the tract level  by age (derived from census variance replicate table B01001),derived from census variance replicate table B01001,96
-acs5 population count data from 2016 to 2021 at the county level  by age (derived from census variance replicate table B01001),derived from census variance replicate table B01001,97
-PUMS_acs5 population count data from 2016 to 2021 at the county level  by age (COVID-19 hospitalizations reporting - age brackets),COVID-19 hospitalizations reporting - age brackets,98
-PUMS_acs5 population count data from 2016 to 2021 at the county level  by age (MPX reporting),MPX reporting,99
-acs1 Labor Force Participation Rate data from 2020 to 2021 at the county level  by labor force participation (OEWD Econ Recovery Dashboard),OEWD Econ Recovery Dashboard,100
-acs1 Unemployment rate data from 2020 to 2021 at the county level  by unemployment status (OEWD Econ Recovery Dashboard),OEWD Econ Recovery Dashboard,101
-acs1 Unemployment Rate data from 2020 to 2021 at the county level  by unemployment status (OEWD Econ Recovery Dashboard),OEWD Econ Recovery Dashboard,102
-PUMS_acs5 population count data from 2015 to 2020 at the county level  by age / race (Seasonal vaccine reporting - age groups and race),Seasonal vaccine reporting - age groups and race,103
-PUMS_acs5 population count data from 2016 to 2021 at the county level  by age / race (Seasonal vaccine reporting - age groups and race),Seasonal vaccine reporting - age groups and race,104
-acs5 population count data from 2017 to 2022 at the tract level  by all (from census table B01001),from census table B01001,105
-acs5 population count data from 2017 to 2022 at the tract level  by race (from census table B03002),from census table B03002,106
-acs5 population count data from 2017 to 2022 at the neighborhood level  by all (from census table B01001),from census table B01001,107
-acs5 population count data from 2017 to 2022 at the neighborhood level  by race (from census table B03002),from census table B03002,108
-PUMS_acs5 population count data from 2014 to 2019 at the county level  by age / race (COVID-19 vaccine reporting - alternate age brackets and race),COVID-19 vaccine reporting - alternate age brackets and race,109
-acs5 population count data from 2014 to 2019 at the tract level  by age (derived from census variance replicate table B01001),derived from census variance replicate table B01001,110
-acs5 population count data from 2014 to 2019 at the county level  by age (derived from census variance replicate table B01001),derived from census variance replicate table B01001,111
-PUMS_acs5 population count data from 2017 to 2022 at the county level  by age (DPH overdose reporting - primary age brackets),DPH overdose reporting - primary age brackets,112
-PUMS_acs5 population count data from 2017 to 2022 at the county level  by age (DPH overdose reporting - age groups and race),DPH overdose reporting - age groups and race,113
-PUMS_acs5 population count data from 2017 to 2022 at the county level  by age / race / gender (HCAI and CHA reporting),HCAI and CHA reporting,114
-PUMS_acs1 population count data from 2020 to 2021 at the county level  by age / race / gender (HCAI and CHA reporting),HCAI and CHA reporting,115
-PUMS_acs1 population count data from 2021 to 2022 at the county level  by age / race / gender (HCAI and CHA reporting),HCAI and CHA reporting,116
-acs5 population count data from 2017 to 2022 at the supervisor districts level  by all (from census table B01001),from census table B01001,117
-acs5 population count data from 2017 to 2022 at the neighborhood level  by age (derived from census variance replicate table B01001),derived from census variance replicate table B01001,118
-acs5 population count data from 2017 to 2022 at the tract level  by age (derived from census variance replicate table B01001),derived from census variance replicate table B01001,119
-acs5 population count data from 2017 to 2022 at the county level  by age (derived from census variance replicate table B01001),derived from census variance replicate table B01001,120
-acs1 Labor Force Participation Rate data from 2021 to 2022 at the county level  by labor force participation (OEWD Econ Recovery Dashboard),OEWD Econ Recovery Dashboard,121
-acs1 Unemployment rate data from 2021 to 2022 at the county level  by unemployment status (OEWD Econ Recovery Dashboard),OEWD Econ Recovery Dashboard,122
-acs1 Unemployment Rate data from 2021 to 2022 at the county level  by unemployment status (OEWD Econ Recovery Dashboard),OEWD Econ Recovery Dashboard,123
-acs5 population count data from 2017 to 2022 at the county level  by race (Police Reporting Demographic Categories),Police Reporting Demographic Categories,124
-PUMS_acs5 population count data from 2017 to 2022 at the county level  by age (Police Reporting Demographic Categories),Police Reporting Demographic Categories,125
-acs5 population count data from 2017 to 2022 at the county level  by gender (Police Reporting Demographic Categories),Police Reporting Demographic Categories,126
-PUMS_acs1 population count data from 2016 to 2017 at the county level  by age / race / gender (HCAI and CHA reporting),HCAI and CHA reporting,127
-PUMS_acs1 population count data from 2017 to 2018 at the county level  by age / race / gender (HCAI and CHA reporting),HCAI and CHA reporting,128
-PUMS_acs1 population count data from 2018 to 2019 at the county level  by age / race / gender (HCAI and CHA reporting),HCAI and CHA reporting,129
-PUMS_acs5 population count data from 2017 to 2022 at the county level  by age (COVID-19 vaccine reporting - primary age brackets),COVID-19 vaccine reporting - primary age brackets,130
-PUMS_acs5 population count data from 2017 to 2022 at the county level  by age (COVID-19 vaccine reporting - alternate age brackets),COVID-19 vaccine reporting - alternate age brackets,131
-PUMS_acs5 population count data from 2017 to 2022 at the county level  by age (COVID-19 vaccine reporting - age groups),COVID-19 vaccine reporting - age groups,132
-PUMS_acs5 population count data from 2017 to 2022 at the county level  by age (COVID-19 cases/testing reporting - age brackets),COVID-19 cases/testing reporting - age brackets,133
-PUMS_acs5 population count data from 2017 to 2022 at the county level  by race (COVID-19 cases/testing reporting - age brackets),COVID-19 cases/testing reporting - age brackets,134
-PUMS_acs5 population count data from 2017 to 2022 at the county level  by age / race (COVID-19 vaccine reporting - primary age brackets and race),COVID-19 vaccine reporting - primary age brackets and race,135
-PUMS_acs5 population count data from 2017 to 2022 at the county level  by age / race (COVID-19 vaccine reporting - age groups and race),COVID-19 vaccine reporting - age groups and race,136
-PUMS_acs5 population count data from 2017 to 2022 at the county level  by age / race (COVID-19 vaccine reporting - alternate age brackets and race),COVID-19 vaccine reporting - alternate age brackets and race,137
-PUMS_acs5 population count data from 2017 to 2022 at the county level  by age (COVID-19 hospitalizations reporting - age brackets),COVID-19 hospitalizations reporting - age brackets,138
-PUMS_acs5 population count data from 2017 to 2022 at the county level  by age (Seasonal vaccine reporting - age groups),Seasonal vaccine reporting - age groups,139
-PUMS_acs5 population count data from 2017 to 2022 at the county level  by age / race (Seasonal vaccine reporting - age groups and race),Seasonal vaccine reporting - age groups and race,140
-acs5 population count data from 2013 to 2018 at the county level  by race (Police Reporting Demographic Categories),Police Reporting Demographic Categories,141
-acs5 population count data from 2014 to 2019 at the county level  by race (Police Reporting Demographic Categories),Police Reporting Demographic Categories,142
-acs5 population count data from 2015 to 2020 at the county level  by race (Police Reporting Demographic Categories),Police Reporting Demographic Categories,143
-acs5 population count data from 2016 to 2021 at the county level  by race (Police Reporting Demographic Categories),Police Reporting Demographic Categories,144
-PUMS_acs5 population count data from 2015 to 2020 at the county level  by age (Police Reporting Demographic Categories),Police Reporting Demographic Categories,145
-PUMS_acs5 population count data from 2013 to 2018 at the county level  by age (Police Reporting Demographic Categories),Police Reporting Demographic Categories,146
-PUMS_acs5 population count data from 2014 to 2019 at the county level  by age (Police Reporting Demographic Categories),Police Reporting Demographic Categories,147
-PUMS_acs5 population count data from 2016 to 2021 at the county level  by age (Police Reporting Demographic Categories),Police Reporting Demographic Categories,148
-acs5 population count data from 2013 to 2018 at the county level  by gender (Police Reporting Demographic Categories),Police Reporting Demographic Categories,149
-acs5 population count data from 2014 to 2019 at the county level  by gender (Police Reporting Demographic Categories),Police Reporting Demographic Categories,150
-acs5 population count data from 2015 to 2020 at the county level  by gender (Police Reporting Demographic Categories),Police Reporting Demographic Categories,151
-acs5 population count data from 2016 to 2021 at the county level  by gender (Police Reporting Demographic Categories),Police Reporting Demographic Categories,152
-acs5 population count data from 2019 to 2023 at the tract level  by all (from census table B01001),from census table B01001,153
-acs5 population count data from 2019 to 2023 at the tract level  by race (from census table B03002),from census table B03002,154
-acs5 population count data from 2019 to 2023 at the neighborhood level  by all (from census table B01001),from census table B01001,155
-acs5 population count data from 2019 to 2023 at the neighborhood level  by race (from census table B03002),from census table B03002,156
-acs5 population count data from 2019 to 2023 at the supervisor districts level  by all (from census table B01001),from census table B01001,157
-acs5 population count data from 2019 to 2023 at the zcta level  by all (from census table B01001),from census table B01001,158
-acs5 population count data from 2019 to 2023 at the county level  by gender (from census table B01001),from census table B01001,159
-acs5 population count data from 2019 to 2023 at the county level  by race (Police Reporting Demographic Categories),Police Reporting Demographic Categories,160
-acs5 population count data from 2019 to 2023 at the county level  by gender (Police Reporting Demographic Categories),Police Reporting Demographic Categories,161
-acs5 population count data from 2019 to 2023 at the state level  by all (DPH overdose reporting - CA population),DPH overdose reporting - CA population,162
-acs5 population count data from 2019 to 2023 at the us level  by all (DPH overdose reporting - US population),DPH overdose reporting - US population,163
-PUMS_acs5 population count data from 2019 to 2023 at the county level  by age (Seasonal vaccine reporting - age groups),Seasonal vaccine reporting - age groups,164
-PUMS_acs5 population count data from 2019 to 2023 at the county level  by age (COVID-19 cases/testing reporting - age brackets),COVID-19 cases/testing reporting - age brackets,165
+pums_acs5 population count data from 2014 to 2019 at the county level by age (covid-19 vaccine reporting - age groups),covid-19 vaccine reporting - age groups,1
+pums_acs5 population count data from 2015 to 2020 at the county level by age (covid-19 vaccine reporting - age groups),covid-19 vaccine reporting - age groups,2
+acs5 population count data from 2016 to 2021 at the county level by all (from census table b01001),from census table b01001,3
+acs5 population count data from 2016 to 2021 at the county level by race (from census table b03002),from census table b03002,4
+acs5 population count data from 2016 to 2021 at the county level by age (from census table b06001),from census table b06001,5
+acs5 population count data from 2016 to 2021 at the tract level by age (from census table b06001),from census table b06001,6
+acs5 population count data from 2017 to 2022 at the zcta level by all (from census table b01001),from census table b01001,7
+pums_acs5 population count data from 2014 to 2019 at the county level by age / race (covid-19 vaccine reporting - primary age brackets and race),covid-19 vaccine reporting - primary age brackets and race,8
+acs5 population count data from 2013 to 2017 at the state level by all (dph overdose reporting - ca population),dph overdose reporting - ca population,9
+acs5 population count data from 2017 to 2022 at the county level by all (from census table b01001),from census table b01001,10
+acs5 population count data from 2017 to 2022 at the county level by race (from census table b03002),from census table b03002,11
+acs5 population count data from 2015 to 2020 at the county level by race (from census table b03002),from census table b03002,12
+acs5 population count data from 2015 to 2020 at the county level by age (from census table b06001),from census table b06001,13
+acs5 population count data from 2015 to 2020 at the tract level by age (from census table b06001),from census table b06001,14
+acs5 population count data from 2017 to 2022 at the neighborhood level by age (from census table b06001),from census table b06001,15
+acs5 population count data from 2014 to 2018 at the state level by all (dph overdose reporting - ca population),dph overdose reporting - ca population,16
+acs5 population count data from 2015 to 2020 at the neighborhood level by age (from census table b06001),from census table b06001,17
+acs5 population count data from 2017 to 2022 at the county level by gender (from census table b01001),from census table b01001,18
+acs5 population count data from 2015 to 2019 at the state level by all (dph overdose reporting - ca population),dph overdose reporting - ca population,19
+acs5 population count data from 2016 to 2020 at the state level by all (dph overdose reporting - ca population),dph overdose reporting - ca population,20
+acs5 population count data from 2017 to 2021 at the state level by all (dph overdose reporting - ca population),dph overdose reporting - ca population,21
+acs5 population count data from 2015 to 2020 at the tract level by all (from census table b01001),from census table b01001,22
+acs5 population count data from 2015 to 2020 at the tract level by race (from census table b03002),from census table b03002,23
+acs5 population count data from 2014 to 2019 at the zcta level by all (from census table b01001),from census table b01001,24
+acs5 population count data from 2015 to 2020 at the county level by gender (from census table b01001),from census table b01001,25
+acs5 population count data from 2018 to 2022 at the state level by all (dph overdose reporting - ca population),dph overdose reporting - ca population,26
+acs5 population count data from 2013 to 2017 at the us level by all (dph overdose reporting - us population),dph overdose reporting - us population,27
+acs5 population count data from 2014 to 2018 at the us level by all (dph overdose reporting - us population),dph overdose reporting - us population,28
+acs5 population count data from 2015 to 2019 at the us level by all (dph overdose reporting - us population),dph overdose reporting - us population,29
+acs5 population count data from 2016 to 2020 at the us level by all (dph overdose reporting - us population),dph overdose reporting - us population,30
+acs5 population count data from 2017 to 2021 at the us level by all (dph overdose reporting - us population),dph overdose reporting - us population,31
+acs5 population count data from 2018 to 2022 at the us level by all (dph overdose reporting - us population),dph overdose reporting - us population,32
+acs5 population count data from 2019 to 2023 at the county level by all (from census table b01001),from census table b01001,33
+acs5 population count data from 2019 to 2023 at the county level by race (from census table b03002),from census table b03002,34
+acs5 population count data from 2019 to 2023 at the neighborhood level by age (from census table b06001),from census table b06001,35
+acs5 population count data from 2014 to 2019 at the supervisor districts level by all (from census table b01001),from census table b01001,36
+acs5 population count data from 2014 to 2019 at the county level by gender (from census table b01001),from census table b01001,37
+pums_acs5 population count data from 2017 to 2022 at the county level by age (mpx reporting),mpx reporting,38
+acs5 population count data from 2015 to 2020 at the neighborhood level by all (from census table b01001),from census table b01001,39
+acs5 population count data from 2015 to 2020 at the neighborhood level by race (from census table b03002),from census table b03002,40
+acs5 population count data from 2019 to 2023 at the tract level by age (from census table b06001),from census table b06001,41
+pums_acs5 population count data from 2014 to 2019 at the county level by age (covid-19 hospitalizations reporting - age brackets),covid-19 hospitalizations reporting - age brackets,42
+pums_acs5 population count data from 2015 to 2020 at the county level by age (covid-19 vaccine reporting - primary age brackets),covid-19 vaccine reporting - primary age brackets,43
+pums_acs5 population count data from 2015 to 2020 at the county level by age (covid-19 vaccine reporting - alternate age brackets),covid-19 vaccine reporting - alternate age brackets,44
+pums_acs5 population count data from 2015 to 2020 at the county level by age (covid-19 cases/testing reporting - age brackets),covid-19 cases/testing reporting - age brackets,45
+pums_acs5 population count data from 2015 to 2020 at the county level by race (covid-19 cases/testing reporting - age brackets),covid-19 cases/testing reporting - age brackets,46
+pums_acs5 population count data from 2015 to 2020 at the county level by age / race (covid-19 vaccine reporting - primary age brackets and race),covid-19 vaccine reporting - primary age brackets and race,47
+acs5 population count data from 2015 to 2020 at the neighborhood level by age (derived from census variance replicate table b01001),derived from census variance replicate table b01001,48
+acs5 population count data from 2015 to 2020 at the tract level by age (derived from census variance replicate table b01001),derived from census variance replicate table b01001,49
+pums_acs5 population count data from 2014 to 2019 at the county level by age (mpx reporting),mpx reporting,50
+pums_acs5 population count data from 2015 to 2020 at the county level by age / race (covid-19 vaccine reporting - alternate age brackets and race),covid-19 vaccine reporting - alternate age brackets and race,51
+pums_acs5 population count data from 2014 to 2019 at the county level by age / race (covid-19 vaccine reporting - age groups and race),covid-19 vaccine reporting - age groups and race,52
+pums_acs5 population count data from 2015 to 2020 at the county level by age / race (covid-19 vaccine reporting - age groups and race),covid-19 vaccine reporting - age groups and race,53
+acs5 population count data from 2015 to 2020 at the supervisor districts level by all (from census table b01001),from census table b01001,54
+acs5 population count data from 2015 to 2020 at the zcta level by all (from census table b01001),from census table b01001,55
+acs5 population count data from 2015 to 2020 at the county level by age (derived from census variance replicate table b01001),derived from census variance replicate table b01001,56
+pums_acs5 population count data from 2015 to 2020 at the county level by age (covid-19 hospitalizations reporting - age brackets),covid-19 hospitalizations reporting - age brackets,57
+pums_acs5 population count data from 2015 to 2020 at the county level by age (mpx reporting),mpx reporting,58
+acs5 population count data from 2014 to 2019 at the county level by all (from census table b01001),from census table b01001,59
+acs5 population count data from 2014 to 2019 at the county level by race (from census table b03002),from census table b03002,60
+acs5 population count data from 2014 to 2019 at the county level by age (from census table b06001),from census table b06001,61
+acs5 population count data from 2014 to 2019 at the tract level by age (from census table b06001),from census table b06001,62
+acs5 population count data from 2014 to 2019 at the neighborhood level by age (from census table b06001),from census table b06001,63
+acs5 population count data from 2019 to 2023 at the county level by age (from census table b06001),from census table b06001,64
+acs5 population count data from 2014 to 2019 at the tract level by all (from census table b01001),from census table b01001,65
+acs5 population count data from 2014 to 2019 at the tract level by race (from census table b03002),from census table b03002,66
+acs5 population count data from 2017 to 2022 at the county level by age (from census table b06001),from census table b06001,67
+acs5 population count data from 2014 to 2019 at the neighborhood level by all (from census table b01001),from census table b01001,68
+acs5 population count data from 2014 to 2019 at the neighborhood level by race (from census table b03002),from census table b03002,69
+acs5 population count data from 2014 to 2019 at the neighborhood level by age (derived from census variance replicate table b01001),derived from census variance replicate table b01001,70
+pums_acs5 population count data from 2014 to 2019 at the county level by age (covid-19 vaccine reporting - primary age brackets),covid-19 vaccine reporting - primary age brackets,71
+pums_acs5 population count data from 2014 to 2019 at the county level by age (covid-19 vaccine reporting - alternate age brackets),covid-19 vaccine reporting - alternate age brackets,72
+pums_acs5 population count data from 2014 to 2019 at the county level by age (covid-19 cases/testing reporting - age brackets),covid-19 cases/testing reporting - age brackets,73
+pums_acs5 population count data from 2014 to 2019 at the county level by race (covid-19 cases/testing reporting - age brackets),covid-19 cases/testing reporting - age brackets,74
+acs5 population count data from 2015 to 2020 at the county level by all (from census table b01001),from census table b01001,75
+acs5 population count data from 2016 to 2021 at the neighborhood level by age (from census table b06001),from census table b06001,76
+acs5 population count data from 2016 to 2021 at the tract level by all (from census table b01001),from census table b01001,77
+acs5 population count data from 2016 to 2021 at the tract level by race (from census table b03002),from census table b03002,78
+acs5 population count data from 2017 to 2022 at the tract level by age (from census table b06001),from census table b06001,79
+pums_acs5 population count data from 2015 to 2020 at the county level by age (seasonal vaccine reporting - age groups),seasonal vaccine reporting - age groups,80
+pums_acs5 population count data from 2016 to 2021 at the county level by age (seasonal vaccine reporting - age groups),seasonal vaccine reporting - age groups,81
+acs5 population count data from 2016 to 2021 at the neighborhood level by all (from census table b01001),from census table b01001,82
+acs5 population count data from 2016 to 2021 at the neighborhood level by race (from census table b03002),from census table b03002,83
+pums_acs5 population count data from 2016 to 2021 at the county level by age (covid-19 vaccine reporting - primary age brackets),covid-19 vaccine reporting - primary age brackets,84
+pums_acs5 population count data from 2016 to 2021 at the county level by age (covid-19 vaccine reporting - alternate age brackets),covid-19 vaccine reporting - alternate age brackets,85
+pums_acs5 population count data from 2016 to 2021 at the county level by age (covid-19 vaccine reporting - age groups),covid-19 vaccine reporting - age groups,86
+pums_acs5 population count data from 2016 to 2021 at the county level by age (covid-19 cases/testing reporting - age brackets),covid-19 cases/testing reporting - age brackets,87
+pums_acs5 population count data from 2016 to 2021 at the county level by race (covid-19 cases/testing reporting - age brackets),covid-19 cases/testing reporting - age brackets,88
+pums_acs5 population count data from 2016 to 2021 at the county level by age / race (covid-19 vaccine reporting - primary age brackets and race),covid-19 vaccine reporting - primary age brackets and race,89
+pums_acs5 population count data from 2016 to 2021 at the county level by age / race (covid-19 vaccine reporting - alternate age brackets and race),covid-19 vaccine reporting - alternate age brackets and race,90
+pums_acs5 population count data from 2016 to 2021 at the county level by age / race (covid-19 vaccine reporting - age groups and race),covid-19 vaccine reporting - age groups and race,91
+acs5 population count data from 2016 to 2021 at the supervisor districts level by all (from census table b01001),from census table b01001,92
+acs5 population count data from 2016 to 2021 at the zcta level by all (from census table b01001),from census table b01001,93
+acs5 population count data from 2016 to 2021 at the county level by gender (from census table b01001),from census table b01001,94
+acs5 population count data from 2016 to 2021 at the neighborhood level by age (derived from census variance replicate table b01001),derived from census variance replicate table b01001,95
+acs5 population count data from 2016 to 2021 at the tract level by age (derived from census variance replicate table b01001),derived from census variance replicate table b01001,96
+acs5 population count data from 2016 to 2021 at the county level by age (derived from census variance replicate table b01001),derived from census variance replicate table b01001,97
+pums_acs5 population count data from 2016 to 2021 at the county level by age (covid-19 hospitalizations reporting - age brackets),covid-19 hospitalizations reporting - age brackets,98
+pums_acs5 population count data from 2016 to 2021 at the county level by age (mpx reporting),mpx reporting,99
+acs1 labor force participation rate data from 2020 to 2021 at the county level by labor force participation (oewd econ recovery dashboard),oewd econ recovery dashboard,100
+acs1 unemployment rate data from 2020 to 2021 at the county level by unemployment status (oewd econ recovery dashboard),oewd econ recovery dashboard,101
+pums_acs5 population count data from 2015 to 2020 at the county level by age / race (seasonal vaccine reporting - age groups and race),seasonal vaccine reporting - age groups and race,102
+pums_acs5 population count data from 2016 to 2021 at the county level by age / race (seasonal vaccine reporting - age groups and race),seasonal vaccine reporting - age groups and race,103
+acs5 population count data from 2017 to 2022 at the tract level by all (from census table b01001),from census table b01001,104
+acs5 population count data from 2017 to 2022 at the tract level by race (from census table b03002),from census table b03002,105
+acs5 population count data from 2017 to 2022 at the neighborhood level by all (from census table b01001),from census table b01001,106
+acs5 population count data from 2017 to 2022 at the neighborhood level by race (from census table b03002),from census table b03002,107
+pums_acs5 population count data from 2014 to 2019 at the county level by age / race (covid-19 vaccine reporting - alternate age brackets and race),covid-19 vaccine reporting - alternate age brackets and race,108
+acs5 population count data from 2014 to 2019 at the tract level by age (derived from census variance replicate table b01001),derived from census variance replicate table b01001,109
+acs5 population count data from 2014 to 2019 at the county level by age (derived from census variance replicate table b01001),derived from census variance replicate table b01001,110
+pums_acs5 population count data from 2017 to 2022 at the county level by age (dph overdose reporting - primary age brackets),dph overdose reporting - primary age brackets,111
+pums_acs5 population count data from 2017 to 2022 at the county level by age (dph overdose reporting - age groups and race),dph overdose reporting - age groups and race,112
+pums_acs5 population count data from 2017 to 2022 at the county level by age / race / gender (hcai and cha reporting),hcai and cha reporting,113
+pums_acs1 population count data from 2020 to 2021 at the county level by age / race / gender (hcai and cha reporting),hcai and cha reporting,114
+pums_acs1 population count data from 2021 to 2022 at the county level by age / race / gender (hcai and cha reporting),hcai and cha reporting,115
+acs5 population count data from 2017 to 2022 at the supervisor districts level by all (from census table b01001),from census table b01001,116
+acs5 population count data from 2017 to 2022 at the neighborhood level by age (derived from census variance replicate table b01001),derived from census variance replicate table b01001,117
+acs5 population count data from 2017 to 2022 at the tract level by age (derived from census variance replicate table b01001),derived from census variance replicate table b01001,118
+acs5 population count data from 2017 to 2022 at the county level by age (derived from census variance replicate table b01001),derived from census variance replicate table b01001,119
+acs1 labor force participation rate data from 2021 to 2022 at the county level by labor force participation (oewd econ recovery dashboard),oewd econ recovery dashboard,120
+acs1 unemployment rate data from 2021 to 2022 at the county level by unemployment status (oewd econ recovery dashboard),oewd econ recovery dashboard,121
+acs5 population count data from 2017 to 2022 at the county level by race (police reporting demographic categories),police reporting demographic categories,122
+pums_acs5 population count data from 2017 to 2022 at the county level by age (police reporting demographic categories),police reporting demographic categories,123
+acs5 population count data from 2017 to 2022 at the county level by gender (police reporting demographic categories),police reporting demographic categories,124
+pums_acs1 population count data from 2016 to 2017 at the county level by age / race / gender (hcai and cha reporting),hcai and cha reporting,125
+pums_acs1 population count data from 2017 to 2018 at the county level by age / race / gender (hcai and cha reporting),hcai and cha reporting,126
+pums_acs1 population count data from 2018 to 2019 at the county level by age / race / gender (hcai and cha reporting),hcai and cha reporting,127
+pums_acs5 population count data from 2017 to 2022 at the county level by age (covid-19 vaccine reporting - primary age brackets),covid-19 vaccine reporting - primary age brackets,128
+pums_acs5 population count data from 2017 to 2022 at the county level by age (covid-19 vaccine reporting - alternate age brackets),covid-19 vaccine reporting - alternate age brackets,129
+pums_acs5 population count data from 2017 to 2022 at the county level by age (covid-19 vaccine reporting - age groups),covid-19 vaccine reporting - age groups,130
+pums_acs5 population count data from 2017 to 2022 at the county level by age (covid-19 cases/testing reporting - age brackets),covid-19 cases/testing reporting - age brackets,131
+pums_acs5 population count data from 2017 to 2022 at the county level by race (covid-19 cases/testing reporting - age brackets),covid-19 cases/testing reporting - age brackets,132
+pums_acs5 population count data from 2017 to 2022 at the county level by age / race (covid-19 vaccine reporting - primary age brackets and race),covid-19 vaccine reporting - primary age brackets and race,133
+pums_acs5 population count data from 2017 to 2022 at the county level by age / race (covid-19 vaccine reporting - age groups and race),covid-19 vaccine reporting - age groups and race,134
+pums_acs5 population count data from 2017 to 2022 at the county level by age / race (covid-19 vaccine reporting - alternate age brackets and race),covid-19 vaccine reporting - alternate age brackets and race,135
+pums_acs5 population count data from 2017 to 2022 at the county level by age (covid-19 hospitalizations reporting - age brackets),covid-19 hospitalizations reporting - age brackets,136
+pums_acs5 population count data from 2017 to 2022 at the county level by age (seasonal vaccine reporting - age groups),seasonal vaccine reporting - age groups,137
+pums_acs5 population count data from 2017 to 2022 at the county level by age / race (seasonal vaccine reporting - age groups and race),seasonal vaccine reporting - age groups and race,138
+acs5 population count data from 2013 to 2018 at the county level by race (police reporting demographic categories),police reporting demographic categories,139
+acs5 population count data from 2014 to 2019 at the county level by race (police reporting demographic categories),police reporting demographic categories,140
+acs5 population count data from 2015 to 2020 at the county level by race (police reporting demographic categories),police reporting demographic categories,141
+acs5 population count data from 2016 to 2021 at the county level by race (police reporting demographic categories),police reporting demographic categories,142
+pums_acs5 population count data from 2015 to 2020 at the county level by age (police reporting demographic categories),police reporting demographic categories,143
+pums_acs5 population count data from 2013 to 2018 at the county level by age (police reporting demographic categories),police reporting demographic categories,144
+pums_acs5 population count data from 2014 to 2019 at the county level by age (police reporting demographic categories),police reporting demographic categories,145
+pums_acs5 population count data from 2016 to 2021 at the county level by age (police reporting demographic categories),police reporting demographic categories,146
+acs5 population count data from 2013 to 2018 at the county level by gender (police reporting demographic categories),police reporting demographic categories,147
+acs5 population count data from 2014 to 2019 at the county level by gender (police reporting demographic categories),police reporting demographic categories,148
+acs5 population count data from 2015 to 2020 at the county level by gender (police reporting demographic categories),police reporting demographic categories,149
+acs5 population count data from 2016 to 2021 at the county level by gender (police reporting demographic categories),police reporting demographic categories,150
+acs5 population count data from 2019 to 2023 at the tract level by all (from census table b01001),from census table b01001,151
+acs5 population count data from 2019 to 2023 at the tract level by race (from census table b03002),from census table b03002,152
+acs5 population count data from 2019 to 2023 at the neighborhood level by all (from census table b01001),from census table b01001,153
+acs5 population count data from 2019 to 2023 at the neighborhood level by race (from census table b03002),from census table b03002,154
+acs5 population count data from 2019 to 2023 at the supervisor districts level by all (from census table b01001),from census table b01001,155
+acs5 population count data from 2019 to 2023 at the zcta level by all (from census table b01001),from census table b01001,156
+acs5 population count data from 2019 to 2023 at the county level by gender (from census table b01001),from census table b01001,157
+acs5 population count data from 2019 to 2023 at the county level by race (police reporting demographic categories),police reporting demographic categories,158
+acs5 population count data from 2019 to 2023 at the county level by gender (police reporting demographic categories),police reporting demographic categories,159
+acs5 population count data from 2019 to 2023 at the state level by all (dph overdose reporting - ca population),dph overdose reporting - ca population,160
+acs5 population count data from 2019 to 2023 at the us level by all (dph overdose reporting - us population),dph overdose reporting - us population,161
+pums_acs5 population count data from 2019 to 2023 at the county level by age (seasonal vaccine reporting - age groups),seasonal vaccine reporting - age groups,162
+pums_acs5 population count data from 2019 to 2023 at the county level by age (covid-19 cases/testing reporting - age brackets),covid-19 cases/testing reporting - age brackets,163
